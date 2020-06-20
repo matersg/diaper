@@ -4,6 +4,7 @@
 
 ※MamyPoko Air Fitの中身はムーニー(マン)なのでムーニーに分類しています
 
+
 # サイズ別 (1枚あたりの価格順)
 
 ## NB
@@ -195,6 +196,7 @@
 [MamyPoko Extra Dry Skin Boy Pants - XXXL (18 - 35kg)](https://www.fairprice.com.sg/product/mamypoko-pants-boy-xxxl-18-35kg-14s-12050072) | Pants | FairPrice | S$21.45 | S$1.532
 [MamyPoko Girls Diaper Pants - XXXL (18 - 35kg)](https://www.fairprice.com.sg/product/12709523) | Pants | FairPrice | S$85.80 | S$1.532
 [MamyPoko Extra Dry Skin Boy Pants-XXXL(18-35kg)](https://www.fairprice.com.sg/product/12709522) | Pants | FairPrice | S$85.80 | S$1.532
+
 # ブランド別 (サイズ順、1枚あたりの価格順)
 
 ## パンパース
