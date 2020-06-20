@@ -151,7 +151,7 @@ if __name__=='__main__':
         '※MamyPoko Air Fitの中身はムーニー(マン)なのでムーニーに分類しています\n',
     ]
 
-    lines.append('# サイズ別')
+    lines.append('# サイズ別 (1枚あたりの価格順)')
     for sz in reversed(list(SIZE_DICT.keys())):
         rows = df.query(f'size == "{sz}"').sort_values(
             by=['per_diaper','price']
@@ -172,7 +172,7 @@ if __name__=='__main__':
             line = ' | '.join(cols)
             lines.append(line)
 
-    lines.append('# ブランド別')
+    lines.append('# ブランド別 (サイズ順、1枚あたりの価格順)')
     for njp in sorted(df.name_jp.unique()):
         rows = df.query(f'name_jp == "{njp}"').sort_values(
             by=['size_enum','per_diaper','price']
