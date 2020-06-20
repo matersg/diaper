@@ -12,7 +12,7 @@ SIZE_DICT = {
     },
     'XL': {
         'enum': 4,
-        'expressions': ['XL','XLarge','Extra Large'],
+        'expressions': ['XL','XLarge','X-Large','Extra Large'],
     },
     'L': {
         'enum': 3,
