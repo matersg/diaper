@@ -3,7 +3,7 @@ set -e
 
 git -c core.sshCommand="ssh -i ~/.ssh/id_rsa_matersg -F /dev/null" pull
 source ../.venv/bin/activate
-rm -v *.csv
+git clean -fx
 scrapy crawl amazon -o amazon.csv
 scrapy crawl fairprice -o fairprice.csv
 python generate_md.py
