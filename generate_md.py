@@ -154,7 +154,7 @@ if __name__=='__main__':
     lines.append('# サイズ別')
     for sz in reversed(list(SIZE_DICT.keys())):
         rows = df.query(f'size == "{sz}"').sort_values(
-            by='per_diaper'
+            by=['per_diaper','price']
         )
         last_updated_jp = rows.date_crawled.min().strftime('%Y年%m月%d日 %I%p')
         lines.append(f'\n## {sz}\n')
@@ -175,7 +175,7 @@ if __name__=='__main__':
     lines.append('# ブランド別')
     for njp in sorted(df.name_jp.unique()):
         rows = df.query(f'name_jp == "{njp}"').sort_values(
-            by=['size_enum','per_diaper']
+            by=['size_enum','per_diaper','price']
         )
         last_updated_jp = rows.date_crawled.min().strftime('%Y年%m月%d日 %I%p')
         lines.append(f'\n## {njp}\n')
