@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-git -c core.sshCommand="ssh -i ~/.ssh/id_rsa_matersg -F /dev/null" pull
+git pull
 source ../.venv/bin/activate
 git clean -fx
 scrapy crawl amazon -o amazon.csv
