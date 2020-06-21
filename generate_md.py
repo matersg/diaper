@@ -78,6 +78,9 @@ def fp_parse_packs(units_str):
     else:
         return 1
 
+def am_cleanup_name(product_name):
+    return re.sub('\s?\(?[Pp]ackag?ing may vary\)?', '', product_name)
+
 def get_df_amazon():
     return pd.read_csv(
         'amazon.csv',
@@ -85,6 +88,7 @@ def get_df_amazon():
     ).query(
         'availability != "Temporarily out of stock."'
     ).assign(
+        name=lambda x: x.name.apply(am_cleanup_name),
         size=lambda x: x.name.apply(az_parse_size),
         cts=lambda x: x.name.apply(az_parse_count),
         pks=lambda x: x.name.apply(az_parse_packs),
@@ -104,6 +108,9 @@ def get_df_fairprice():
         site='FairPrice',
     )
 
+def cleanup_kg_range(product_name):
+    return re.sub('\s?\(\d+\s?-\s?\d+kg\)', '', product_name).strip()
+
 def get_name_jp(product_name):
     name_lower = product_name.lower()
     if 'mamypoko' in name_lower:
@@ -117,7 +124,7 @@ def get_name_jp(product_name):
         return 'ムーニー'
     elif 'pampers' in name_lower:
         if 'premium care' in name_lower:
-            return 'パンパースプレミアム'
+            return 'パンパースプレミアムケア'
         else:
             return 'パンパース'
 
@@ -137,62 +144,40 @@ if __name__=='__main__':
         subset=['url'],
         keep='last',
     ).assign(
+        name=lambda x: x.name.apply(cleanup_kg_range),
         type=lambda x: x.name.apply(parse_type),
         per_diaper=lambda x: (x['price'] / x['cts'] / x['pks']),
         name_jp=lambda x: x.name.apply(get_name_jp),
         size_enum=lambda x: x['size'].apply(get_size_enum),
     )
 
-    name_jp_links_str = ' / '.join([f'[{x}](#{x.lower()})' for x in sorted(df.name_jp.unique())])
-    size_links_str = ' / '.join([f'[{x}](#{x.lower()})' for x in reversed(list(SIZE_DICT.keys()))])
+    size_links = [f'[{x}](#{x.lower()})' for x in reversed(list(SIZE_DICT.keys()))]
     lines = [
-        f'サイズ別: {size_links_str}\n',
-        f'ブランド別: {name_jp_links_str}\n',
-        '※MamyPoko Air Fitの中身はムーニー(マン)なのでムーニーに分類しています\n',
+        f'サイズ {" / ".join(size_links)}\n',
+        '注: MamyPoko Air Fitの中身はムーニー(マン)なのでムーニーに分類しています\n',
     ]
 
-    lines.append('\n# サイズ別 (1枚あたりの価格順)')
     for sz in reversed(list(SIZE_DICT.keys())):
-        rows = df.query(f'size == "{sz}"').sort_values(
-            by=['per_diaper','price']
-        )
-        last_updated_jp = rows.date_crawled.min().strftime('%Y年%m月%d日 %I%p')
-        lines.append(f'\n## {sz}\n')
+        df_per_size = df.query(f'size == "{sz}"')
+        last_updated_jp = df_per_size.date_crawled.min().strftime('%Y年%m月%d日 %I%p')
+        lines.append(f'\n# {sz}\n')
         lines.append(f'最終更新 {last_updated_jp}\n')
-        lines.append('商品名 |   | 販売 | 価格 | 1枚あたり')
-        lines.append('----- | - | ---- | --- | ------')
-        for r in rows.itertuples():
-            cols = [
-                f'[{r.name}]({r.url})',
-                r.type,
-                r.site,
-                f'S${r.price:.2f}',
-                f'S${r.per_diaper:.3f}',
-            ]
-            line = ' | '.join(cols)
-            lines.append(line)
-
-    lines.append('\n# ブランド別 (サイズ順、1枚あたりの価格順)')
-    for njp in sorted(df.name_jp.unique()):
-        rows = df.query(f'name_jp == "{njp}"').sort_values(
-            by=['size_enum','per_diaper','price']
-        )
-        last_updated_jp = rows.date_crawled.min().strftime('%Y年%m月%d日 %I%p')
-        lines.append(f'\n## {njp}\n')
-        lines.append(f'最終更新 {last_updated_jp}\n')
-        lines.append('商品名 |   |   | 販売 | 価格 | 1枚あたり')
-        lines.append('----- | - | - | ---- | --- | ------')
-        for r in rows.itertuples():
-            cols = [
-                f'[{r.name}]({r.url})',
-                r.type,
-                r.size,
-                r.site,
-                f'S${r.price:.2f}',
-                f'S${r.per_diaper:.3f}',
-            ]
-            line = ' | '.join(cols)
-            lines.append(line)
+        for njp in sorted(df_per_size.name_jp.unique()):
+            rows = df_per_size.query(f'name_jp == "{njp}"').sort_values(
+                by=['per_diaper','price','name']
+            )
+            lines.append(f'{njp} {sz} |   |   | 1枚あたり')
+            lines.append(':---------- | - | - | ------')
+            for r in rows.itertuples():
+                cols = [
+                    f'[{r.name}]({r.url})',
+                    r.type,
+                    f'S${r.price:.2f} {r.site}',
+                    f'S${r.per_diaper:.3f}',
+                ]
+                line = ' | '.join(cols)
+                lines.append(line)
+            lines.append('\n')
 
     fname = 'README.md'
     with open(fname, mode='w') as f:
