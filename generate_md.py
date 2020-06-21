@@ -162,12 +162,13 @@ if __name__=='__main__':
         last_updated_jp = df_per_size.date_crawled.min().strftime('%Y年%m月%d日 %I%p')
         lines.append(f'\n# {sz}\n')
         lines.append(f'最終更新 {last_updated_jp}\n')
-        for njp in sorted(df_per_size.name_jp.unique()):
+        for i, njp in enumerate(sorted(df_per_size.name_jp.unique())):
             rows = df_per_size.query(f'name_jp == "{njp}"').sort_values(
                 by=['per_diaper','price','name']
             )
-            lines.append(f'{njp} {sz} |   |   | 1枚あたり')
-            lines.append(':---------- | - | - | ------')
+            lines.append(f'**{njp} {sz}** |   |   | **1枚あたり**')
+            if i == 0:
+                lines.append(':---------- | - | - | ------')
             for r in rows.itertuples():
                 cols = [
                     f'[{r.name}]({r.url})',
@@ -177,7 +178,6 @@ if __name__=='__main__':
                 ]
                 line = ' | '.join(cols)
                 lines.append(line)
-            lines.append('\n')
 
     fname = 'README.md'
     with open(fname, mode='w') as f:
