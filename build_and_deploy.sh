@@ -6,6 +6,7 @@ source ../.venv/bin/activate
 git clean -fx
 scrapy crawl amazon -o amazon.csv
 scrapy crawl fairprice -o fairprice.csv
+python scrape_redmart.py
 python generate_md.py
 git add README.md
 git commit -m 'auto-update README.md'

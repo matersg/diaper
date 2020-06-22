@@ -3,6 +3,7 @@ import pandas as pd
 
 import amazon as az
 import fairprice as fp
+import redmart as rm
 
 SIZE_DICT = {
     'NB': ['NB','Newborn','New Born'],
@@ -31,6 +32,9 @@ def parse_type(product_name):
 def remove_kg_range(product_name):
     return re.sub('\s?\(\d+\s?-\s?\d+kg\)', '', product_name).strip()
 
+def remove_packaging_may_vary(product_name):
+    return re.sub('\s?\(?[Pp]ackag?ing may vary\)?', '', product_name)
+
 def get_name_jp(product_name):
     name_lower = product_name.lower()
     if 'mamypoko' in name_lower:
@@ -47,10 +51,13 @@ def get_name_jp(product_name):
             return 'パンパースプレミアムケア'
         else:
             return 'パンパース'
+    elif 'goo.n' in name_lower:
+        return 'GOO.N (グ〜ン)'
 
 if __name__=='__main__':
     az_df = az.get_df()
     fp_df = fp.get_df()
+    rm_df = rm.get_df()
 
     df = pd.concat([
         az_df[~az_df.name.str.contains('Wipe')],
@@ -64,6 +71,11 @@ if __name__=='__main__':
         size=lambda x: x.name.apply(parse_size),
         name=lambda x: x.name.apply(remove_kg_range),
         type=lambda x: x.name.apply(parse_type),
+    ).append(
+        rm_df,
+        ignore_index=True
+    ).assign(
+        name=lambda x: x.name.apply(remove_packaging_may_vary),
         per_diaper=lambda x: (x['price'] / x['cts'] / x['pks']),
         name_jp=lambda x: x.name.apply(get_name_jp),
     )
