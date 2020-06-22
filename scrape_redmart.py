@@ -14,12 +14,12 @@ def setup_chrome():
     options.add_argument('--window-size=1500x900')
     return webdriver.Chrome(options=options)
 
-def parse_product_container(html):
-    if 'SOLD OUT' in inner_html:
+def parse_product_container(html_doc):
+    if 'SOLD OUT' in html_doc:
         availability = 'SOLD OUT'
     else:
         availability = 'IN STOCK'
-    soup = BeautifulSoup(inner_html, 'html.parser')
+    soup = BeautifulSoup(html_doc, 'html.parser')
     name = soup.find('h4', 'RedmartProductCard-title').get_text()
     href = soup.find('a', 'RedmartProductCard-link')['href']
     units = soup.find('div', 'RedmartProductCard-weight').get_text()
