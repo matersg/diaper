@@ -28,8 +28,10 @@ class FairpriceSpider(scrapy.Spider):
         for r in df.itertuples():
             yield DiaperItem(
                 name=r.name,
+                brand=None,
                 units=r.units,
                 price=r.price,
+                country=None,
                 availability=None, #FIXME!
                 url=r.url,
                 date_crawled=datetime.datetime.today(),
