@@ -46,10 +46,8 @@ class AmazonSpider(scrapy.Spider):
         for r in df.itertuples():
             yield DiaperItem(
                 name=r.name,
-                brand=None,
                 units=None,
                 price=r.price,
-                country=None,
                 availability=r.availability,
                 url=r.url,
                 date_crawled=datetime.datetime.today(),
