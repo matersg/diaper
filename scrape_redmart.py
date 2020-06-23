@@ -32,6 +32,7 @@ if __name__=='__main__':
     diaper_list = []
     for r in redmart_urls.itertuples():
         wd.get(r.products_url)
+        print(f'redmart: Scraping {r.brand} {r.size}')
         date_crawled = datetime.datetime.today()
         containers = wd.find_elements_by_xpath('//div[@class="RedmartProductCard-container"]')
         for container in containers:
