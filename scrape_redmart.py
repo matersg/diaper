@@ -39,6 +39,8 @@ if __name__=='__main__':
             inner_html = container.get_attribute('innerHTML')
             result = parse_product_container(inner_html)
             diaper_list.append((*result, r.brand, r.size, r.type, date_crawled))
+        wd.close()
+    wd.quit()
 
     fname = 'redmart.csv'
     pd.DataFrame(
