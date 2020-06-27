@@ -54,12 +54,12 @@ def get_name_jp(product_name):
     elif 'goo.n' in name_lower:
         return 'GOO.N (グ〜ン)'
 
-if __name__=='__main__':
+def get_df():
     az_df = az.get_df()
     fp_df = fp.get_df()
     rm_df = rm.get_df()
 
-    df = pd.concat([
+    return pd.concat([
         az_df[~az_df.name.str.contains('Wipe')],
         fp_df[~fp_df.name.str.contains('Wipe')],
     ]).dropna(
@@ -78,7 +78,12 @@ if __name__=='__main__':
         name=lambda x: x.name.apply(remove_packaging_may_vary),
         per_diaper=lambda x: (x['price'] / x['cts'] / x['pks']),
         name_jp=lambda x: x.name.apply(get_name_jp),
+    ).dropna(
+        subset=['name_jp']
     )
+
+if __name__=='__main__':
+    df = get_df()
 
     size_links = [f'[{x}](#{x.lower()})' for x in SIZE_DICT.keys()]
     lines = [
