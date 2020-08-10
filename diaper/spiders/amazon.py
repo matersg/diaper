@@ -23,11 +23,24 @@ class AmazonSpider(scrapy.Spider):
             )
 
     def parse(self, response):
-        product_links = response.xpath('//span[@cel_widget_id="MAIN-SEARCH_RESULTS"]').css('a.a-link-normal::attr(href)').getall()
-        for product_link in product_links:
-            yield SeleniumRequest(
-                url=response.urljoin(product_link),
-                callback=self.parse_product,
+        names = response.xpath(
+            '//span[@cel_widget_id="MAIN-SEARCH_RESULTS"]//h2//span/text()').getall()
+        prices_whole = response.xpath(
+            '//span[@cel_widget_id="MAIN-SEARCH_RESULTS"]').css("span.a-price-whole::text").getall()
+        prices_fraction = response.xpath(
+            '//span[@cel_widget_id="MAIN-SEARCH_RESULTS"]').css("span.a-price-fraction::text").getall()
+        urls = [response.urljoin(x) for x in response.xpath('//span[@cel_widget_id="MAIN-SEARCH_RESULTS"]//h2/a/@href').getall()]
+        date_crawled = datetime.datetime.today()
+        for name, price_whole, price_fraction, url in zip(names, prices_whole, prices_fraction, urls):
+            yield DiaperItem(
+                name=name,
+                brand=None,
+                units=None,
+                price=f'{price_whole}.{price_fraction}',
+                country=None,
+                availability=None, #FIXME!
+                url=url,
+                date_crawled=date_crawled,
             )
 
         next_links = response.xpath('//a[text()="Next"]/@href').getall()
@@ -36,21 +49,3 @@ class AmazonSpider(scrapy.Spider):
                 url=response.urljoin(next_link),
                 callback=self.parse,
             )
-
-    def parse_product(self, response):
-        name = response.css('span#productTitle::text').get()
-        if name:
-            name = name.strip()
-        else:
-            return
-
-        yield DiaperItem(
-            name=name,
-            brand=response.css('a#bylineInfo::text').get(),
-            units=response.xpath('//td[text()="Units"]/following-sibling::td/text()').get(),
-            price=response.css('span#price_inside_buybox::text').get().strip().split('$')[1],
-            country=None,
-            availability=response.css('div#availability span::text').get().strip(),
-            url=response.request.url,
-            date_crawled=datetime.datetime.today(),
-        )
