@@ -37,15 +37,15 @@ def remove_packaging_may_vary(product_name):
 
 def get_name_jp(product_name):
     name_lower = product_name.lower()
-    if 'mamypoko' in name_lower:
+    if 'moony' in name_lower:
+        return 'ムーニー'
+    elif 'mamypoko' in name_lower:
         if 'air fit' in name_lower:
             return 'ムーニー'
         else:
             return 'マミーポコ'
     elif 'merries' in name_lower:
         return 'メリーズ'
-    elif 'moony' in name_lower:
-        return 'ムーニー'
     elif 'pampers' in name_lower:
         if 'premium care' in name_lower:
             return 'パンパースプレミアムケア'
