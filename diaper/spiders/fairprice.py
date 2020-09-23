@@ -10,12 +10,10 @@ class FairpriceSpider(scrapy.Spider):
 
     def parse(self, response):
         container_link_xpath = '//div[contains(@class, "product-container")]/a'
-        url_list = response.xpath(f'{container_link_xpath}/@href').getall()
-
-        description_xpath = f'{container_link_xpath}/div/div[2]'
-        price_list = response.xpath(f'{description_xpath}/div[1]/div/span[1]/span/text()').getall()
-        name_list  = response.xpath(f'{description_xpath}/div[2]/span/text()').getall()
-        units_list = response.xpath(f'{description_xpath}/div[2]/div/div/span[1]/text()').getall()
+        url_list   = response.xpath(f'{container_link_xpath}/@href').getall()
+        price_list = response.xpath(f'{container_link_xpath}/div/div[3]/div/div/span/span/text()').getall()
+        name_list  = response.xpath(f'{container_link_xpath}/div/div[3]/div[2]/span/text()').getall()
+        units = response.xpath(f'{container_link_xpath}/div/div[3]/div[2]/div/div/span/text()').get()
 
         df = pd.DataFrame(
             name_list,
@@ -23,7 +21,7 @@ class FairpriceSpider(scrapy.Spider):
         ).assign(
             url=[response.urljoin(x) for x in url_list],
             price=[x.strip('$') for x in price_list],
-            units=units_list,
+            units=units,
         )
         for r in df.itertuples():
             yield DiaperItem(

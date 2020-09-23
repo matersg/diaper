@@ -23,20 +23,21 @@ class AmazonSpider(scrapy.Spider):
             )
 
     def parse(self, response):
-        names = response.xpath(
-            '//span[@cel_widget_id="MAIN-SEARCH_RESULTS"]//h2//span/text()').getall()
-        prices_whole = response.xpath(
-            '//span[@cel_widget_id="MAIN-SEARCH_RESULTS"]').css("span.a-price-whole::text").getall()
-        prices_fraction = response.xpath(
-            '//span[@cel_widget_id="MAIN-SEARCH_RESULTS"]').css("span.a-price-fraction::text").getall()
-        urls = [response.urljoin(x) for x in response.xpath('//span[@cel_widget_id="MAIN-SEARCH_RESULTS"]//h2/a/@href').getall()]
+        url_xpath   = '//span[@data-component-type="s-product-image"]/following-sibling::div[1]//a/@href'
+        name_xpath  = '//span[@data-component-type="s-product-image"]/following-sibling::div[1]//span/text()'
+        price_xpath = '//span[@data-component-type="s-product-image"]/following-sibling::div[2]/div/div/a/span/span[@class="a-offscreen"]/text()'
+
+        urls = [response.urljoin(x) for x in response.xpath(url_xpath).getall()]
+        names = response.xpath(name_xpath).getall()
+        prices = response.xpath(price_xpath).getall()
+
         date_crawled = datetime.datetime.today()
-        for name, price_whole, price_fraction, url in zip(names, prices_whole, prices_fraction, urls):
+        for name, price, url in zip(names, prices, urls):
             yield DiaperItem(
                 name=name,
                 brand=None,
                 units=None,
-                price=f'{price_whole}.{price_fraction}',
+                price=price.lstrip('S$'),
                 country=None,
                 availability=None, #FIXME!
                 url=url,
