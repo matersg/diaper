@@ -55,12 +55,12 @@ def get_name_jp(product_name):
         return 'GOO.N (グ〜ン)'
 
 def get_df():
-    az_df = az.get_df()
+    # az_df = az.get_df()
     fp_df = fp.get_df()
     rm_df = rm.get_df()
 
     return pd.concat([
-        az_df[~az_df.name.str.contains('Wipe')],
+        # az_df[~az_df.name.str.contains('Wipe')],
         fp_df[~fp_df.name.str.contains('Wipe')],
     ]).dropna(
         subset=['cts', 'pks']
