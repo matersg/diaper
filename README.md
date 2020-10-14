@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2020年10月14日 02PM
+最終更新 2020年10月15日 05AM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -33,7 +33,7 @@
 
 # S
 
-最終更新 2020年10月14日 02PM
+最終更新 2020年10月15日 05AM
 
 **パンパース S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -62,7 +62,7 @@
 
 # M
 
-最終更新 2020年10月14日 02PM
+最終更新 2020年10月15日 05AM
 
 **GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -114,16 +114,15 @@
 [Merries Walker Pants M - Case](https://www.lazada.sg/products/merries-walker-pants-m-case-i304094418-s538238256.html?search=1) | Pants | S$79.83 RedMart | S$0.403
 [Merries Walkers Pants M](https://www.lazada.sg/products/merries-walkers-pants-m-i302772188-s535950708.html?search=1) | Pants | S$14.92 RedMart | S$0.452
 [Merries Walker Pants - M](https://www.fairprice.com.sg/product/merries-walker-pants-m-6-10kg-33s-13017574) | Pants | S$14.95 FairPrice | S$0.575
-[Merries Tape Diapers - M](https://www.fairprice.com.sg/product/merries-diapers-m-6-11kg-64s-13017577) | Tape | S$26.60 FairPrice | S$1.023
+[Merries Tape Diapers - M](https://www.fairprice.com.sg/product/merries-diapers-m-6-11kg-64s-13017577) | Tape | S$24.25 FairPrice | S$0.933
 [Merries Tender Love Tape Diapers - M](https://www.fairprice.com.sg/product/merries-tape-diapers-m-6-11kg-4-x-40-per-pack-ctn-13179719) | Tape | S$49.95 FairPrice | S$1.921
 
 # L
 
-最終更新 2020年10月14日 02PM
+最終更新 2020年10月15日 05AM
 
 **GOO.N (グ〜ン) L** |   |   | **1枚あたり**
 :---------- | - | - | ------
-[GOO.N Japan Diapers L](https://www.lazada.sg/products/goon-japan-diapers-l-packaging-may-vary-i301116698-s527198538.html?search=1) | Tape | S$22.86 RedMart | S$0.423
 [GOO.N Japan Boy Pants L](https://www.lazada.sg/products/goon-japan-boy-pants-l-packaging-may-vary-i302776166-s535968286.html?search=1) | Pants | S$22.86 RedMart | S$0.520
 [GOO.N Japan Girl Pants L](https://www.lazada.sg/products/goon-japan-girl-pants-l-packaging-may-vary-i302784042-s535978106.html?search=1) | Pants | S$22.86 RedMart | S$0.520
 [GOO.N Aromagic Diapers L](https://www.lazada.sg/products/goon-aromagic-diapers-l-i303920416-s537954786.html?search=1) | Tape | S$28.90 RedMart | S$0.688
@@ -176,16 +175,15 @@
 [Merries Tape Diapers L](https://www.lazada.sg/products/merries-tape-diapers-l-i301126461-s527208141.html?search=1) | Tape | S$24.21 RedMart | S$0.448
 [Merries Walker PantsL - Case](https://www.lazada.sg/products/merries-walker-pantsl-case-i306760197-s549594196.html?search=1) | Pants | S$64.57 RedMart | S$0.489
 [Merries Walker Pants L](https://www.lazada.sg/products/merries-walker-pants-l-i303234620-s536556296.html?search=1) | Pants | S$26.25 RedMart | S$0.597
-[Merries Walker Pants - L](https://www.fairprice.com.sg/product/merries-walker-pants-l-9-14kg-44s-13085180) | Pants | S$26.25 FairPrice | S$1.010
-[Merries Tape Diapers - L](https://www.fairprice.com.sg/product/merries-diapers-l-9-14kg-54s-13017575) | Tape | S$26.60 FairPrice | S$1.023
+[Merries Walker Pants - L](https://www.fairprice.com.sg/product/merries-walker-pants-l-9-14kg-44s-13085180) | Pants | S$23.50 FairPrice | S$0.904
+[Merries Tape Diapers - L](https://www.fairprice.com.sg/product/merries-diapers-l-9-14kg-54s-13017575) | Tape | S$24.25 FairPrice | S$0.933
 [Merries Tender Love Tape Diapers - L](https://www.fairprice.com.sg/product/merries-tape-diapers-l-9-14kg-4-x-34-per-pack-ctn-13179718) | Tape | S$49.95 FairPrice | S$1.921
 [Merries Tape Diapers - L](https://www.fairprice.com.sg/product/13148784) | Tape | S$58.00 FairPrice | S$2.231
 [Merries Walker Pants - L](https://www.fairprice.com.sg/product/ctn-merries-walker-pants-l-9-14kg-3-x-44s-12706466) | Pants | S$78.75 FairPrice | S$3.029
-[Merries Tape Diapers - L](https://www.fairprice.com.sg/product/ctn-merries-diapers-l-9-14kg-4-x-54s-12705033) | Tape | S$97.00 FairPrice | S$3.731
 
 # XL
 
-最終更新 2020年10月14日 02PM
+最終更新 2020年10月15日 05AM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -217,15 +215,15 @@
 **メリーズ XL** |   |   | **1枚あたり**
 [Merries Tape Diapers XL - Case](https://www.lazada.sg/products/merries-tape-diapers-xl-case-i306758622-s549586621.html?search=1) | Tape | S$83.42 RedMart | S$0.474
 [Merries Walker PantsXL - Case](https://www.lazada.sg/products/merries-walker-pantsxl-case-i304098336-s538208867.html?search=1) | Pants | S$64.57 RedMart | S$0.566
-[Merries Walker Pants - XL](https://www.fairprice.com.sg/product/merries-walker-pants-xl-12-22kg-38s-13085181) | Pants | S$26.25 FairPrice | S$1.010
-[Merries Tape Diapers - XL](https://www.fairprice.com.sg/product/merries-diapers-xl-12-20kg-44s-13017579) | Tape | S$26.60 FairPrice | S$1.023
+[Merries Walker Pants - XL](https://www.fairprice.com.sg/product/merries-walker-pants-xl-12-22kg-38s-13085181) | Pants | S$23.50 FairPrice | S$0.904
+[Merries Tape Diapers - XL](https://www.fairprice.com.sg/product/merries-diapers-xl-12-20kg-44s-13017579) | Tape | S$24.25 FairPrice | S$0.933
 [Merries Tender Love Tape Diapers - XL](https://www.fairprice.com.sg/product/merries-tape-diapers-xl-12-20kg-6-x-27-per-pack-ctn-13179717) | Tape | S$74.45 FairPrice | S$2.863
 [Merries Walker Pants - XL](https://www.fairprice.com.sg/product/ctn-merries-walker-pants-xl-12-22kg-3-x-38s-12706467) | Pants | S$78.75 FairPrice | S$3.029
 [Merries Tape Diapers - XL](https://www.fairprice.com.sg/product/ctn-merries-diapers-xl-12-20kg-4-x-44s-12705034) | Tape | S$97.00 FairPrice | S$3.731
 
 # XXL
 
-最終更新 2020年10月14日 02PM
+最終更新 2020年10月15日 05AM
 
 **GOO.N (グ〜ン) XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -266,7 +264,7 @@
 
 # XXXL
 
-最終更新 2020年10月14日 02PM
+最終更新 2020年10月15日 05AM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
