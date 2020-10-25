@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2020年10月25日 05AM
+最終更新 2020年10月25日 02PM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -33,7 +33,7 @@
 
 # S
 
-最終更新 2020年10月25日 05AM
+最終更新 2020年10月25日 02PM
 
 **パンパース S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -63,7 +63,7 @@
 
 # M
 
-最終更新 2020年10月25日 05AM
+最終更新 2020年10月25日 02PM
 
 **GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -119,7 +119,7 @@
 
 # L
 
-最終更新 2020年10月25日 05AM
+最終更新 2020年10月25日 02PM
 
 **GOO.N (グ〜ン) L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -162,9 +162,7 @@
 [MamyPoko Air Fit Boy Pants - L](https://www.fairprice.com.sg/product/ctn-mamypoko-l-air-fit-boy-pants-9-14kg-4-x-44s-12706144) | Pants | S$85.80 FairPrice | S$0.340
 [MamyPoko Air Fit Diapers - L](https://www.fairprice.com.sg/product/ctn-mamypoko-l-air-fit-9-14kg-4-x-54s-12706143) | - | S$85.80 FairPrice | S$0.340
 [MamyPoko Air Fit Girl Pants- L](https://www.fairprice.com.sg/product/ctn-mamypoko-l-air-fit-girl-pants-9-14kg-4-x-44s-12706145) | Pants | S$85.80 FairPrice | S$0.340
-[MamyPoko Air Fit Tape Diaper L - Case - By Unicharm](https://www.lazada.sg/products/mamypoko-air-fit-tape-diaper-l-case-by-unicharm-i304162876-s538390033.html?search=1) | Tape | S$80.85 RedMart | S$0.374
 [MamyPoko Air Fit Pants Diaper Boy L - Case - By Unicharm](https://www.lazada.sg/products/mamypoko-air-fit-pants-diaper-boy-l-case-by-unicharm-i306760202-s549594201.html?search=1) | Tape | S$77.85 RedMart | S$0.442
-[MamyPoko Air Fit Pants Diaper Girl L - Case - By Unicharm](https://www.lazada.sg/products/mamypoko-air-fit-pants-diaper-girl-l-case-by-unicharm-i306760200-s549594199.html?search=1) | Tape | S$80.85 RedMart | S$0.459
 [MamyPoko Air Fit Diapers L](https://www.lazada.sg/products/mamypoko-air-fit-diapers-l-i303370514-s536750184.html?search=1) | Tape | S$25.95 RedMart | S$0.481
 [MamyPoko Air Fit Boy Pants - L](https://www.fairprice.com.sg/product/mamypoko-l-air-fit-boy-pants-9-14kg-44s-13085343) | Pants | S$21.45 FairPrice | S$0.564
 [MamyPoko Air Fit Diapers - L](https://www.fairprice.com.sg/product/mamypoko-l-air-fit-9-14kg-54s-13086873) | - | S$21.45 FairPrice | S$0.564
@@ -185,7 +183,7 @@
 
 # XL
 
-最終更新 2020年10月25日 05AM
+最終更新 2020年10月25日 02PM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -225,7 +223,7 @@
 
 # XXL
 
-最終更新 2020年10月25日 05AM
+最終更新 2020年10月25日 02PM
 
 **GOO.N (グ〜ン) XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -264,7 +262,7 @@
 
 # XXXL
 
-最終更新 2020年10月25日 05AM
+最終更新 2020年10月25日 02PM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
