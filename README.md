@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2020年10月26日 05AM
+最終更新 2020年10月26日 02PM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -33,7 +33,7 @@
 
 # S
 
-最終更新 2020年10月26日 05AM
+最終更新 2020年10月26日 02PM
 
 **パンパース S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -63,7 +63,7 @@
 
 # M
 
-最終更新 2020年10月26日 05AM
+最終更新 2020年10月26日 02PM
 
 **GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -103,6 +103,7 @@
 [MamyPoko Air Fit Pants - M](https://www.fairprice.com.sg/product/mamypoko-air-fit-pants---m-6---11kg-12708050) | Pants | S$64.35 FairPrice | S$0.255
 [MamyPoko Air Fit Tape Diaper M - Case - By Unicharm](https://www.lazada.sg/products/mamypoko-air-fit-tape-diaper-m-case-by-unicharm-i304164759-s538376493.html?search=1) | Tape | S$80.85 RedMart | S$0.316
 [MamyPoko Air Fit Diapers - M](https://www.fairprice.com.sg/product/ctn-mamypoko-m-air-fit-6-11kg-4-x-64s-12706142) | - | S$85.80 FairPrice | S$0.340
+[MamyPoko Air Fit Pants Diaper M - Case](https://www.lazada.sg/products/mamypoko-air-fit-pants-diaper-m-case-i304178584-s538386150.html?search=1) | Tape | S$60.64 RedMart | S$0.349
 [MamyPoko Air Fit Diapers M](https://www.lazada.sg/products/mamypoko-air-fit-diapers-m-i303380377-s536722727.html?search=1) | Tape | S$25.95 RedMart | S$0.405
 [MamyPoko Air Fit Pants M](https://www.lazada.sg/products/mamypoko-air-fit-pants-m-i303656280-s537292984.html?search=1) | Pants | S$25.95 RedMart | S$0.447
 [MamyPoko Air Fit Diapers - M](https://www.fairprice.com.sg/product/mamypoko-m-air-fit-6-11kg-64s-13086871) | - | S$21.45 FairPrice | S$0.564
@@ -117,12 +118,11 @@
 
 # L
 
-最終更新 2020年10月26日 05AM
+最終更新 2020年10月26日 02PM
 
 **GOO.N (グ〜ン) L** |   |   | **1枚あたり**
 :---------- | - | - | ------
 [GOO.N Japan Boy Pants L](https://www.lazada.sg/products/goon-japan-boy-pants-l-packaging-may-vary-i302776166-s535968286.html?search=1) | Pants | S$22.86 RedMart | S$0.520
-[GOO.N Japan Girl Pants L](https://www.lazada.sg/products/goon-japan-girl-pants-l-packaging-may-vary-i302784042-s535978106.html?search=1) | Pants | S$22.86 RedMart | S$0.520
 [GOO.N Aromagic Diapers L](https://www.lazada.sg/products/goon-aromagic-diapers-l-i303920416-s537954786.html?search=1) | Tape | S$28.90 RedMart | S$0.688
 **パンパース L** |   |   | **1枚あたり**
 [Pampers Baby Dry Tape Diapers L - Case](https://www.lazada.sg/products/pampers-baby-dry-tape-diapers-l-case-i305052340-s541166715.html?search=1) | Tape | S$74.88 RedMart | S$0.347
@@ -160,6 +160,7 @@
 [MamyPoko Air Fit Boy Pants - L](https://www.fairprice.com.sg/product/ctn-mamypoko-l-air-fit-boy-pants-9-14kg-4-x-44s-12706144) | Pants | S$85.80 FairPrice | S$0.340
 [MamyPoko Air Fit Diapers - L](https://www.fairprice.com.sg/product/ctn-mamypoko-l-air-fit-9-14kg-4-x-54s-12706143) | - | S$85.80 FairPrice | S$0.340
 [MamyPoko Air Fit Girl Pants- L](https://www.fairprice.com.sg/product/ctn-mamypoko-l-air-fit-girl-pants-9-14kg-4-x-44s-12706145) | Pants | S$85.80 FairPrice | S$0.340
+[MamyPoko Air Fit Tape Diaper L - Case - By Unicharm](https://www.lazada.sg/products/mamypoko-air-fit-tape-diaper-l-case-by-unicharm-i304162876-s538390033.html?search=1) | Tape | S$80.85 RedMart | S$0.374
 [MamyPoko Air Fit Pants Diaper Boy L - Case - By Unicharm](https://www.lazada.sg/products/mamypoko-air-fit-pants-diaper-boy-l-case-by-unicharm-i306760202-s549594201.html?search=1) | Tape | S$77.85 RedMart | S$0.442
 [MamyPoko Air Fit Diapers L](https://www.lazada.sg/products/mamypoko-air-fit-diapers-l-i303370514-s536750184.html?search=1) | Tape | S$25.95 RedMart | S$0.481
 [MamyPoko Air Fit Boy Pants - L](https://www.fairprice.com.sg/product/mamypoko-l-air-fit-boy-pants-9-14kg-44s-13085343) | Pants | S$21.45 FairPrice | S$0.564
@@ -181,7 +182,7 @@
 
 # XL
 
-最終更新 2020年10月26日 05AM
+最終更新 2020年10月26日 02PM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -221,7 +222,7 @@
 
 # XXL
 
-最終更新 2020年10月26日 05AM
+最終更新 2020年10月26日 02PM
 
 **GOO.N (グ〜ン) XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -230,7 +231,6 @@
 [Pampers Baby Dry Pants - XXL](https://www.fairprice.com.sg/product/pampers-baby-dry-pants---xxl-15---28kg-12707691) | Pants | S$68.00 FairPrice | S$0.472
 [Pampers Baby Dry Diapers - XXL (16+ kg)](https://www.fairprice.com.sg/product/pampers-baby-dry-diapers---xxl-16-kg-13129652) | - | S$21.50 FairPrice | S$0.537
 [Pampers Baby Dry Tape Diapers XXL - Case](https://www.lazada.sg/products/pampers-baby-dry-tape-diapers-xxl-case-i301166166-s527236907.html?search=1) | Tape | S$74.88 RedMart | S$0.551
-[Pampers Baby Dry Pants XXL](https://www.lazada.sg/products/pampers-baby-dry-pants-xxl-i301174272-s527280052.html?search=1) | Pants | S$16.77 RedMart | S$0.645
 [Pampers Baby Unisex Dry Pants - XXL](https://www.fairprice.com.sg/product/pampers-baby-dry-pants-xxl-15-28kg-26s-13110821) | Pants | S$17.50 FairPrice | S$0.673
 [Pampers Baby Dry Tape Diapers XXL](https://www.lazada.sg/products/pampers-baby-dry-tape-diapers-xxl-i301184109-s527272174.html?search=1) | Tape | S$24.00 RedMart | S$0.706
 [Pampers Baby Dry Diapers - XXL (16+ kg)](https://www.fairprice.com.sg/product/pampers-baby-dry-diapers---xxl-16-kg-12708056) | - | S$78.00 FairPrice | S$1.950
@@ -254,13 +254,13 @@
 [MamyPoko Air Fit Boy Pants - XXL](https://www.fairprice.com.sg/product/13146527) | Pants | S$21.45 FairPrice | S$0.564
 [MamyPoko Air Fit Girl Pants - XXL](https://www.fairprice.com.sg/product/13146528) | Pants | S$21.45 FairPrice | S$0.564
 **メリーズ XXL** |   |   | **1枚あたり**
-[Merries Walker Pants XXL](https://www.lazada.sg/products/merries-walker-pants-xxl-i303092892-s536390351.html?search=1) | Pants | S$17.95 RedMart | S$0.690
+[Merries Walker Pants XXL](https://www.lazada.sg/products/merries-walker-pants-xxl-i303092892-s536390351.html?search=1) | Pants | S$18.95 RedMart | S$0.729
 [Merries Walker Pants - XXL](https://www.fairprice.com.sg/product/merries-walker-pants-xxl-15-28kg-26s-13081089) | Pants | S$19.95 FairPrice | S$0.767
 [Merries Walker Pants - XXL](https://www.fairprice.com.sg/product/ctn-merries-walker-pants-xxl-15-28kg-3-x-26s-12706520) | Pants | S$65.85 FairPrice | S$2.533
 
 # XXXL
 
-最終更新 2020年10月26日 05AM
+最終更新 2020年10月26日 02PM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
