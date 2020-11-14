@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2020年11月14日 02PM
+最終更新 2020年11月15日 05AM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -34,7 +34,7 @@
 
 # S
 
-最終更新 2020年11月14日 02PM
+最終更新 2020年11月15日 05AM
 
 **パンパース S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -65,7 +65,7 @@
 
 # M
 
-最終更新 2020年11月14日 02PM
+最終更新 2020年11月15日 05AM
 
 **GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -74,6 +74,7 @@
 [GOO.N Aromagic Diapers M](https://www.lazada.sg/products/goon-aromagic-diapers-m-i303920415-s537954785.html?search=1) | Tape | S$28.90 RedMart | S$0.516
 **パンパース M** |   |   | **1枚あたり**
 [Pampers Baby Dry Taped Diapers M - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-m-case-i305052344-s541166722.html?search=1) | Tape | S$74.88 RedMart | S$0.292
+[Pampers Baby Dry Pants M - Case](https://www.lazada.sg/products/pampers-baby-dry-pants-m-case-i301186209-s527248741.html?search=1) | Pants | S$69.58 RedMart | S$0.300
 [Pampers Baby Dry Taped Diapers M](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-m-i305054348-s541160999.html?search=1) | Tape | S$24.00 RedMart | S$0.375
 [Pampers Baby Dry Pants M](https://www.lazada.sg/products/pampers-baby-dry-pants-m-i301190159-s527274270.html?search=1) | Pants | S$24.50 RedMart | S$0.422
 [Pampers Summer Baby Diaper Pants - M](https://www.fairprice.com.sg/product/pampers-summer-baby-diaper-pants-m-6-11kg-4-x-54-per-pack-ctn-12710197) | Pants | S$70.00 FairPrice | S$0.486
@@ -119,7 +120,7 @@
 
 # L
 
-最終更新 2020年11月14日 02PM
+最終更新 2020年11月15日 05AM
 
 **GOO.N (グ〜ン) L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -181,7 +182,7 @@
 
 # XL
 
-最終更新 2020年11月14日 02PM
+最終更新 2020年11月15日 05AM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -221,7 +222,7 @@
 
 # XXL
 
-最終更新 2020年11月14日 02PM
+最終更新 2020年11月15日 05AM
 
 **パンパース XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -260,7 +261,7 @@
 
 # XXXL
 
-最終更新 2020年11月14日 02PM
+最終更新 2020年11月15日 05AM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
