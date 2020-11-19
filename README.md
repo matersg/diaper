@@ -5,10 +5,11 @@
 
 # NB
 
-最終更新 2020年11月19日 05AM
+最終更新 2020年11月19日 02PM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
+[GOO.N Japan Diapers Newborn](https://www.lazada.sg/products/goon-japan-diapers-newborn-i302740991-s535956489.html?search=1) | Tape | S$26.90 RedMart | S$0.299
 [GOO.N Diapers Justborn](https://www.lazada.sg/products/goon-diapers-justborn-i303908577-s537956622.html?search=1) | Tape | S$18.50 RedMart | S$0.514
 **パンパース NB** |   |   | **1枚あたり**
 [Pampers Baby Dry Taped Diapers Newborn - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-newborn-case-i302754696-s536000027.html?search=1) | Tape | S$83.52 RedMart | S$0.232
@@ -35,10 +36,12 @@
 
 # S
 
-最終更新 2020年11月19日 05AM
+最終更新 2020年11月19日 02PM
 
-**パンパース S** |   |   | **1枚あたり**
+**GOO.N (グ〜ン) S** |   |   | **1枚あたり**
 :---------- | - | - | ------
+[GOO.N Japan Diapers S](https://www.lazada.sg/products/goon-japan-diapers-s-packaging-may-vary-i301144589-s527204557.html?search=1) | Tape | S$26.90 RedMart | S$0.320
+**パンパース S** |   |   | **1枚あたり**
 [Pampers Baby Dry Taped Diapers S - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-s-case-i302778363-s535966927.html?search=1) | Tape | S$83.52 RedMart | S$0.255
 [Pampers Baby Dry Taped Diapers S](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-s-i302770437-s535972558.html?search=1) | Tape | S$21.60 RedMart | S$0.263
 [Pampers Baby Dry Diapers - S](https://www.fairprice.com.sg/product/12708053) | - | S$78.00 FairPrice | S$0.542
@@ -66,11 +69,12 @@
 
 # M
 
-最終更新 2020年11月19日 05AM
+最終更新 2020年11月19日 02PM
 
 **GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
 [GOO.N Cheerful Baby Pants M](https://www.lazada.sg/products/goon-cheerful-baby-pants-m-i303908575-s537956620.html?search=1) | Pants | S$16.90 RedMart | S$0.291
+[GOO.N Japan Diapers M](https://www.lazada.sg/products/goon-japan-diapers-m-packaging-may-vary-i301120621-s527190766.html?search=1) | Tape | S$26.90 RedMart | S$0.420
 [GOO.N Japan Pants M](https://www.lazada.sg/products/goon-japan-pants-m-packaging-may-vary-i301136625-s527194926.html?search=1) | Pants | S$26.90 RedMart | S$0.464
 [GOO.N Aromagic Diapers M](https://www.lazada.sg/products/goon-aromagic-diapers-m-i303920415-s537954785.html?search=1) | Tape | S$28.90 RedMart | S$0.516
 **パンパース M** |   |   | **1枚あたり**
@@ -87,7 +91,6 @@
 [Pampers Premium Care Diapers - M](https://www.fairprice.com.sg/product/ctn-pampers-premium-care-tapes-m-4-x-48s-12705813) | - | S$67.00 FairPrice | S$0.465
 [Pampers Premium Care Pants - M](https://www.fairprice.com.sg/product/ctn-pampers-premium-care-pants-m-4-x-44s-12705815) | Pants | S$67.00 FairPrice | S$0.465
 [Pampers Premium Care Diapers - M](https://www.fairprice.com.sg/product/pampers-premium-care-tapes-m-48s-13089006) | - | S$17.50 FairPrice | S$0.486
-[Pampers Premium Care Pants - M](https://www.fairprice.com.sg/product/pampers-premium-care-pants-m-44s-13088921) | Pants | S$17.50 FairPrice | S$0.486
 [Pampers Premium Care Diapers - M](https://www.fairprice.com.sg/product/pampers-premium-care-diapers-m-6-11kg-4-x-52-per-pack-ctn-12710294) | - | S$83.90 FairPrice | S$0.583
 [Pampers Premium Care Pants - M](https://www.fairprice.com.sg/product/pampers-premium-care-pants-m-6-11kg-4-x-48-per-pack-ctn-12710293) | Pants | S$83.90 FairPrice | S$0.583
 **マミーポコ M** |   |   | **1枚あたり**
@@ -121,7 +124,7 @@
 
 # L
 
-最終更新 2020年11月19日 05AM
+最終更新 2020年11月19日 02PM
 
 **GOO.N (グ〜ン) L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -144,6 +147,7 @@
 [Pampers Premium Care Pants - L](https://www.fairprice.com.sg/product/ctn-pampers-premium-care-pants-l-9-14kg-4-x-34s-12705816) | Pants | S$67.00 FairPrice | S$0.465
 [Pampers Premium Care Diapers - L](https://www.fairprice.com.sg/product/pampers-premium-care-tapes-l-40s-13089007) | - | S$17.50 FairPrice | S$0.486
 [Pampers Premium Care Pants - L](https://www.fairprice.com.sg/product/pampers-premium-care-pants-l-34s-13088922) | Pants | S$17.50 FairPrice | S$0.486
+[Pampers Premium Care Diapers - L](https://www.fairprice.com.sg/product/pampers-premium-care-diapers-l-9-14kg-4-x-42-per-pack-ctn-12710292) | - | S$83.90 FairPrice | S$0.583
 [Pampers Premium Care Diapers - L](https://www.fairprice.com.sg/product/pampers-premium-care-diapers-l-9-14kg-42-per-pack-13183271) | - | S$22.50 FairPrice | S$0.625
 [Pampers Premium Care Pants - L](https://www.fairprice.com.sg/product/pampers-premium-care-pants-l-9-14kg-38-per-pack-13183269) | Pants | S$22.50 FairPrice | S$0.625
 **マミーポコ L** |   |   | **1枚あたり**
@@ -183,7 +187,7 @@
 
 # XL
 
-最終更新 2020年11月19日 05AM
+最終更新 2020年11月19日 02PM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -223,14 +227,17 @@
 
 # XXL
 
-最終更新 2020年11月19日 05AM
+最終更新 2020年11月19日 02PM
 
-**パンパース XXL** |   |   | **1枚あたり**
+**GOO.N (グ〜ン) XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
+[GOO.N Japan Girl Pants XXL](https://www.lazada.sg/products/goon-japan-girl-pants-xxl-packaging-may-vary-i301140565-s527216265.html?search=1) | Pants | S$26.90 RedMart | S$0.961
+**パンパース XXL** |   |   | **1枚あたり**
 [Pampers Baby Dry Pants - XXL](https://www.fairprice.com.sg/product/pampers-baby-dry-pants---xxl-15---28kg-12707691) | Pants | S$68.00 FairPrice | S$0.472
 [Pampers Baby Unisex Dry Pants - XXL](https://www.fairprice.com.sg/product/pampers-baby-dry-pants-xxl-15-28kg-26s-13110821) | Pants | S$17.50 FairPrice | S$0.486
 [Pampers Baby Dry Taped Diapers XXL - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-xxl-case-i301166166-s527236907.html?search=1) | Tape | S$83.52 RedMart | S$0.614
 [Pampers Baby Dry Diapers - XXL (16+ kg)](https://www.fairprice.com.sg/product/pampers-baby-dry-diapers---xxl-16-kg-13129652) | - | S$21.50 FairPrice | S$0.632
+[Pampers Baby Dry Taped Diapers XXL](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-xxl-i301184109-s527272174.html?search=1) | Tape | S$21.60 RedMart | S$0.635
 [Pampers Baby Dry Pants XXL - Case](https://www.lazada.sg/products/pampers-baby-dry-pants-xxl-case-i301198167-s527268453.html?search=1) | Pants | S$74.82 RedMart | S$0.719
 [Pampers Baby Dry Pants XXL](https://www.lazada.sg/products/pampers-baby-dry-pants-xxl-i301174272-s527280052.html?search=1) | Pants | S$18.92 RedMart | S$0.728
 [Pampers Baby Dry Diapers - XXL (16+ kg)](https://www.fairprice.com.sg/product/pampers-baby-dry-diapers---xxl-16-kg-12708056) | - | S$78.00 FairPrice | S$2.294
@@ -258,7 +265,7 @@
 
 # XXXL
 
-最終更新 2020年11月19日 05AM
+最終更新 2020年11月19日 02PM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
