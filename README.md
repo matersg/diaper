@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2020年11月21日 05AM
+最終更新 2020年11月21日 02PM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -36,7 +36,7 @@
 
 # S
 
-最終更新 2020年11月21日 05AM
+最終更新 2020年11月21日 02PM
 
 **GOO.N (グ〜ン) S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -69,7 +69,7 @@
 
 # M
 
-最終更新 2020年11月21日 05AM
+最終更新 2020年11月21日 02PM
 
 **GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -126,7 +126,7 @@
 
 # L
 
-最終更新 2020年11月21日 05AM
+最終更新 2020年11月21日 02PM
 
 **GOO.N (グ〜ン) L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -178,8 +178,8 @@
 **メリーズ L** |   |   | **1枚あたり**
 [Merries Tape Diapers L - Case](https://www.lazada.sg/products/merries-tape-diapers-l-case-i304072927-s538236307.html?search=1) | Tape | S$88.27 RedMart | S$0.409
 [Merries Tape Diapers L](https://www.lazada.sg/products/merries-tape-diapers-l-i301126461-s527208141.html?search=1) | Tape | S$26.60 RedMart | S$0.493
+[Merries Walker Pants L](https://www.lazada.sg/products/merries-walker-pants-l-i303234620-s536556296.html?search=1) | Pants | S$21.95 RedMart | S$0.499
 [Merries Walker PantsL - Case](https://www.lazada.sg/products/merries-walker-pantsl-case-i306760197-s549594196.html?search=1) | Pants | S$66.15 RedMart | S$0.501
-[Merries Walker Pants L](https://www.lazada.sg/products/merries-walker-pants-l-i303234620-s536556296.html?search=1) | Pants | S$26.25 RedMart | S$0.597
 [Merries Tape Diapers - L](https://www.fairprice.com.sg/product/merries-diapers-l-9-14kg-54s-13017575) | Tape | S$21.95 FairPrice | S$0.844
 [Merries Walker Pants - L](https://www.fairprice.com.sg/product/merries-walker-pants-l-9-14kg-44s-13085180) | Pants | S$21.95 FairPrice | S$0.844
 [Merries Tender Love Tape Diapers - L](https://www.fairprice.com.sg/product/merries-tape-diapers-l-9-14kg-4-x-34-per-pack-ctn-13179718) | Tape | S$52.00 FairPrice | S$2.000
@@ -188,7 +188,7 @@
 
 # XL
 
-最終更新 2020年11月21日 05AM
+最終更新 2020年11月21日 02PM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -228,7 +228,7 @@
 
 # XXL
 
-最終更新 2020年11月21日 05AM
+最終更新 2020年11月21日 02PM
 
 **GOO.N (グ〜ン) XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -267,7 +267,7 @@
 
 # XXXL
 
-最終更新 2020年11月21日 05AM
+最終更新 2020年11月21日 02PM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
