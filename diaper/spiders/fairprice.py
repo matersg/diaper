@@ -20,7 +20,7 @@ class FairpriceSpider(scrapy.Spider):
                 name=name,
                 brand=None,
                 units=units,
-                price=price,
+                price=price.strip('$'),
                 country=None,
                 availability=None, #FIXME!
                 url=response.urljoin(url),
