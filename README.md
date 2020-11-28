@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2020年11月28日 02PM
+最終更新 2020年11月29日 05AM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -34,7 +34,7 @@
 
 # S
 
-最終更新 2020年11月28日 02PM
+最終更新 2020年11月29日 05AM
 
 **GOO.N (グ〜ン) S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -59,14 +59,13 @@
 [MamyPoko Air Fit Tape Diaper S - Case - By Unicharm](https://www.lazada.sg/products/mamypoko-air-fit-tape-diaper-s-case-by-unicharm-i304178583-s538386149.html?search=1) | Tape | S$64.68 RedMart | S$0.257
 [MamyPoko Air Fit Diapers S](https://www.lazada.sg/products/mamypoko-air-fit-diapers-s-i303392179-s536716744.html?search=1) | Tape | S$25.95 RedMart | S$0.309
 **メリーズ S** |   |   | **1枚あたり**
-[Merries Tender Love Tape Diapers - S](https://www.fairprice.com.sg/product/merries-tape-diapers-s-4-8kg-4-x-52-per-pack-ctn-13179730) | Tape | S$58.00 FairPrice | S$0.279
 [Merries Tape Diapers S - Case](https://www.lazada.sg/products/merries-tape-diapers-s-case-i304094419-s538238257.html?search=1) | Tape | S$63.67 RedMart | S$0.295
 [Merries Tape Diapers - S](https://www.fairprice.com.sg/product/merries-diapers-s-4-8kg-54s-13017620) | Tape | S$15.95 FairPrice | S$0.295
 [Merries Tape Diapers S](https://www.lazada.sg/products/merries-tape-diapers-s-i301120446-s527190447.html?search=1) | Tape | S$20.95 RedMart | S$0.388
 
 # M
 
-最終更新 2020年11月28日 02PM
+最終更新 2020年11月29日 05AM
 
 **GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -122,7 +121,7 @@
 
 # L
 
-最終更新 2020年11月28日 02PM
+最終更新 2020年11月29日 05AM
 
 **GOO.N (グ〜ン) L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -183,7 +182,7 @@
 
 # XL
 
-最終更新 2020年11月28日 02PM
+最終更新 2020年11月29日 05AM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -222,7 +221,7 @@
 
 # XXL
 
-最終更新 2020年11月28日 02PM
+最終更新 2020年11月29日 05AM
 
 **GOO.N (グ〜ン) XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -262,7 +261,7 @@
 
 # XXXL
 
-最終更新 2020年11月28日 02PM
+最終更新 2020年11月29日 05AM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
