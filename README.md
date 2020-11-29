@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2020年11月29日 02PM
+最終更新 2020年11月30日 05AM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -34,7 +34,7 @@
 
 # S
 
-最終更新 2020年11月29日 02PM
+最終更新 2020年11月30日 05AM
 
 **GOO.N (グ〜ン) S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -65,11 +65,10 @@
 
 # M
 
-最終更新 2020年11月29日 02PM
+最終更新 2020年11月30日 05AM
 
 **GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
-[GOO.N Cheerful Baby Pants M](https://www.lazada.sg/products/goon-cheerful-baby-pants-m-i303908575-s537956620.html?search=1) | Pants | S$16.90 RedMart | S$0.291
 [GOO.N Japan Diapers M](https://www.lazada.sg/products/goon-japan-diapers-m-packaging-may-vary-i301120621-s527190766.html?search=1) | Tape | S$26.90 RedMart | S$0.420
 [GOO.N Japan Pants M](https://www.lazada.sg/products/goon-japan-pants-m-packaging-may-vary-i301136625-s527194926.html?search=1) | Pants | S$26.90 RedMart | S$0.464
 [GOO.N Aromagic Diapers M](https://www.lazada.sg/products/goon-aromagic-diapers-m-i303920415-s537954785.html?search=1) | Tape | S$28.90 RedMart | S$0.516
@@ -121,7 +120,7 @@
 
 # L
 
-最終更新 2020年11月29日 02PM
+最終更新 2020年11月30日 05AM
 
 **GOO.N (グ〜ン) L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -182,7 +181,7 @@
 
 # XL
 
-最終更新 2020年11月29日 02PM
+最終更新 2020年11月30日 05AM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -221,7 +220,7 @@
 
 # XXL
 
-最終更新 2020年11月29日 02PM
+最終更新 2020年11月30日 05AM
 
 **GOO.N (グ〜ン) XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -261,7 +260,7 @@
 
 # XXXL
 
-最終更新 2020年11月29日 02PM
+最終更新 2020年11月30日 05AM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
