@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2020年12月05日 05AM
+最終更新 2020年12月05日 02PM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -34,7 +34,7 @@
 
 # S
 
-最終更新 2020年12月05日 05AM
+最終更新 2020年12月05日 02PM
 
 **GOO.N (グ〜ン) S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -66,7 +66,7 @@
 
 # M
 
-最終更新 2020年12月05日 05AM
+最終更新 2020年12月05日 02PM
 
 **GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -121,7 +121,7 @@
 
 # L
 
-最終更新 2020年12月05日 05AM
+最終更新 2020年12月05日 02PM
 
 **GOO.N (グ〜ン) L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -171,11 +171,11 @@
 [Merries Walker PantsL - Case](https://www.lazada.sg/products/merries-walker-pantsl-case-i306760197-s549594196.html?search=1) | Pants | S$66.15 RedMart | S$0.501
 [Merries Walker Pants - L](https://www.fairprice.com.sg/product/ctn-merries-walker-pants-l-9-14kg-3-x-44s-12706466) | Pants | S$69.30 FairPrice | S$0.525
 [Merries Walker Pants - L](https://www.fairprice.com.sg/product/merries-walker-pants-l-9-14kg-44s-13085180) | Pants | S$23.50 FairPrice | S$0.534
-[Merries Walker Pants L](https://www.lazada.sg/products/merries-walker-pants-l-i303234620-s536556296.html?search=1) | Pants | S$23.62 RedMart | S$0.537
+[Merries Walker Pants L](https://www.lazada.sg/products/merries-walker-pants-l-i303234620-s536556296.html?search=1) | Pants | S$26.25 RedMart | S$0.597
 
 # XL
 
-最終更新 2020年12月05日 05AM
+最終更新 2020年12月05日 02PM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -213,7 +213,7 @@
 
 # XXL
 
-最終更新 2020年12月05日 05AM
+最終更新 2020年12月05日 02PM
 
 **GOO.N (グ〜ン) XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -248,11 +248,11 @@
 [Merries Walker Pants XXL - Case](https://www.lazada.sg/products/merries-walker-pants-xxl-case-i304072924-s538236305.html?search=1) | Pants | S$56.63 RedMart | S$0.726
 [Merries Walker Pants - XXL](https://www.fairprice.com.sg/product/merries-walker-pants-xxl-15-28kg-26s-13081089) | Pants | S$18.95 FairPrice | S$0.729
 [Merries Walker Pants - XXL](https://www.fairprice.com.sg/product/ctn-merries-walker-pants-xxl-15-28kg-3-x-26s-12706520) | Pants | S$59.00 FairPrice | S$0.756
-[Merries Walker Pants XXL](https://www.lazada.sg/products/merries-walker-pants-xxl-i303092892-s536390351.html?search=1) | Pants | S$19.97 RedMart | S$0.768
+[Merries Walker Pants XXL](https://www.lazada.sg/products/merries-walker-pants-xxl-i303092892-s536390351.html?search=1) | Pants | S$21.95 RedMart | S$0.844
 
 # XXXL
 
-最終更新 2020年12月05日 05AM
+最終更新 2020年12月05日 02PM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
