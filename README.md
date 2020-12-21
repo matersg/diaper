@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2020年12月21日 02PM
+最終更新 2020年12月22日 05AM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -15,7 +15,7 @@
 [Pampers Baby Dry Taped Diapers Newborn - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-newborn-case-i302754696-s536000027.html?search=1) | Tape | S$74.88 RedMart | S$0.208
 [Pampers Baby Dry Diapers - New Born (5kg)](https://www.fairprice.com.sg/product/12708052) | - | S$78.00 FairPrice | S$0.217
 [Pampers Baby Dry Taped Diapers Newborn](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-newborn-i302782274-s535964891.html?search=1) | Tape | S$19.68 RedMart | S$0.219
-[Pampers Baby Dry Diapers - New Born (5kg)](https://www.fairprice.com.sg/product/pampers-baby-dry-diapers---new-born-5kg-13129653) | - | S$24.00 FairPrice | S$0.267
+[Pampers Baby Dry Diapers - New Born (5kg)](https://www.fairprice.com.sg/product/pampers-baby-dry-diapers---new-born-5kg-13129653) | - | S$21.50 FairPrice | S$0.239
 **パンパースプレミアムケア NB** |   |   | **1枚あたり**
 [Pampers Premium Care Diapers - New Born (5kg)](https://www.fairprice.com.sg/product/pampers-premium-care-tapes-new-born-5kg-66s-13088913) | - | S$17.95 FairPrice | S$0.272
 [Pampers Premium Care Diapers - New Born (5kg)](https://www.fairprice.com.sg/product/ctn-pampers-premium-care-tapes-newborn-4-x-66s-12705811) | - | S$72.00 FairPrice | S$0.273
@@ -37,7 +37,7 @@
 
 # S
 
-最終更新 2020年12月21日 02PM
+最終更新 2020年12月22日 05AM
 
 **GOO.N (グ〜ン) S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -70,7 +70,7 @@
 
 # M
 
-最終更新 2020年12月21日 02PM
+最終更新 2020年12月22日 05AM
 
 **GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -128,7 +128,7 @@
 
 # L
 
-最終更新 2020年12月21日 02PM
+最終更新 2020年12月22日 05AM
 
 **GOO.N (グ〜ン) L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -187,7 +187,7 @@
 
 # XL
 
-最終更新 2020年12月21日 02PM
+最終更新 2020年12月22日 05AM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -227,7 +227,7 @@
 
 # XXL
 
-最終更新 2020年12月21日 02PM
+最終更新 2020年12月22日 05AM
 
 **GOO.N (グ〜ン) XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -268,7 +268,7 @@
 
 # XXXL
 
-最終更新 2020年12月21日 02PM
+最終更新 2020年12月22日 05AM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
