@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2021年01月02日 05AM
+最終更新 2021年01月02日 02PM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -18,7 +18,6 @@
 [Pampers Baby Dry Diapers - New Born (5kg)](https://www.fairprice.com.sg/product/12708052) | - | S$96.00 FairPrice | S$0.267
 **パンパースプレミアムケア NB** |   |   | **1枚あたり**
 [Pampers Premium Care Diapers - New Born (5kg)](https://www.fairprice.com.sg/product/pampers-premium-care-tapes-new-born-5kg-66s-13088913) | - | S$17.95 FairPrice | S$0.272
-[Pampers Premium Care Diapers - New Born (5kg)](https://www.fairprice.com.sg/product/ctn-pampers-premium-care-tapes-newborn-4-x-66s-12705811) | - | S$95.60 FairPrice | S$0.362
 **マミーポコ NB** |   |   | **1枚あたり**
 [MamyPoko Extra Dry Organic Tape Diapers Newborn - By Unicharm](https://www.lazada.sg/products/mamypoko-extra-dry-organic-tape-diapers-newborn-by-unicharm-i323294882-s657378145.html?search=1) | Tape | S$52.56 RedMart | S$0.231
 [MamyPoko Extra Dry Diapers - Newborn (Up To 5kg)](https://www.fairprice.com.sg/product/13163552) | - | S$19.40 FairPrice | S$0.255
@@ -36,7 +35,7 @@
 
 # S
 
-最終更新 2021年01月02日 05AM
+最終更新 2021年01月02日 02PM
 
 **GOO.N (グ〜ン) S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -67,10 +66,11 @@
 
 # M
 
-最終更新 2021年01月02日 05AM
+最終更新 2021年01月02日 02PM
 
 **GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
+[GOO.N Cheerful Baby Pants M](https://www.lazada.sg/products/goon-cheerful-baby-pants-m-i303908575-s537956620.html?search=1) | Pants | S$16.90 RedMart | S$0.291
 [GOO.N Japan Diapers M](https://www.lazada.sg/products/goon-japan-diapers-m-packaging-may-vary-i301120621-s527190766.html?search=1) | Tape | S$26.90 RedMart | S$0.420
 **パンパース M** |   |   | **1枚あたり**
 [Pampers Baby Dry Taped Diapers M - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-m-case-i305052344-s541166722.html?search=1) | Tape | S$77.76 RedMart | S$0.304
@@ -88,6 +88,7 @@
 [Pampers Premium Care Diapers - M](https://www.fairprice.com.sg/product/pampers-premium-care-diapers-m-6-11kg-52-per-pack-13183273) | - | S$27.50 FairPrice | S$0.529
 [Pampers Premium Care Diapers - M](https://www.fairprice.com.sg/product/pampers-premium-care-diapers-m-6-11kg-4-x-52-per-pack-ctn-12710294) | - | S$110.00 FairPrice | S$0.529
 [Pampers Premium Care Pants - M](https://www.fairprice.com.sg/product/pampers-premium-care-pants-m-6-11kg-48-per-pack-13183272) | Pants | S$27.50 FairPrice | S$0.573
+[Pampers Premium Care Pants - M](https://www.fairprice.com.sg/product/pampers-premium-care-pants-m-6-11kg-4-x-48-per-pack-ctn-12710293) | Pants | S$110.00 FairPrice | S$0.573
 **マミーポコ M** |   |   | **1枚あたり**
 [MamyPoko Standard Pants M - Case - By Unicharm](https://www.lazada.sg/products/mamypoko-standard-pants-m-case-by-unicharm-i304188413-s538348894.html?search=1) | Tape | S$41.92 RedMart | S$0.212
 [MamyPoko Standard Pants M (Free 6 Pcs)](https://www.lazada.sg/products/mamypoko-standard-pants-m-free-6-pcs-i301190097-s527274175.html?search=1) | Pants | S$15.70 RedMart | S$0.238
@@ -120,7 +121,7 @@
 
 # L
 
-最終更新 2021年01月02日 05AM
+最終更新 2021年01月02日 02PM
 
 **GOO.N (グ〜ン) L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -177,7 +178,7 @@
 
 # XL
 
-最終更新 2021年01月02日 05AM
+最終更新 2021年01月02日 02PM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -209,13 +210,14 @@
 [Merries Tender Love Tape Diapers - XL](https://www.fairprice.com.sg/product/merries-tape-diapers-xl-12-20kg-6-x-27-per-pack-ctn-13179717) | Tape | S$76.00 FairPrice | S$0.469
 [Merries Tape Diapers - XL](https://www.fairprice.com.sg/product/merries-diapers-xl-12-20kg-44s-13017579) | Tape | S$24.25 FairPrice | S$0.551
 [Merries Tape Diapers - XL](https://www.fairprice.com.sg/product/ctn-merries-diapers-xl-12-20kg-4-x-44s-12705034) | Tape | S$97.00 FairPrice | S$0.551
+[Merries Tape Diapers XL - Case](https://www.lazada.sg/products/merries-tape-diapers-xl-case-i306758622-s549586621.html?search=1) | Tape | S$97.00 RedMart | S$0.551
 [Merries Walker Pants - XL](https://www.fairprice.com.sg/product/merries-walker-pants-xl-12-22kg-38s-13085181) | Pants | S$23.50 FairPrice | S$0.618
 [Merries Walker Pants - XL](https://www.fairprice.com.sg/product/ctn-merries-walker-pants-xl-12-22kg-3-x-38s-12706467) | Pants | S$78.75 FairPrice | S$0.691
 [Merries Walker PantsXL - Case](https://www.lazada.sg/products/merries-walker-pantsxl-case-i304098336-s538208867.html?search=1) | Pants | S$78.75 RedMart | S$0.691
 
 # XXL
 
-最終更新 2021年01月02日 05AM
+最終更新 2021年01月02日 02PM
 
 **GOO.N (グ〜ン) XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -253,7 +255,7 @@
 
 # XXXL
 
-最終更新 2021年01月02日 05AM
+最終更新 2021年01月02日 02PM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
