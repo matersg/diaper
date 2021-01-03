@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2021年01月03日 05AM
+最終更新 2021年01月03日 02PM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -35,7 +35,7 @@
 
 # S
 
-最終更新 2021年01月03日 05AM
+最終更新 2021年01月03日 02PM
 
 **GOO.N (グ〜ン) S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -65,7 +65,7 @@
 
 # M
 
-最終更新 2021年01月03日 05AM
+最終更新 2021年01月03日 02PM
 
 **GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -120,7 +120,7 @@
 
 # L
 
-最終更新 2021年01月03日 05AM
+最終更新 2021年01月03日 02PM
 
 **GOO.N (グ〜ン) L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -177,7 +177,7 @@
 
 # XL
 
-最終更新 2021年01月03日 05AM
+最終更新 2021年01月03日 02PM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -194,8 +194,6 @@
 **マミーポコ XL** |   |   | **1枚あたり**
 [MamyPoko Extra Dry Tape Diapers - XL](https://www.fairprice.com.sg/product/mamypoko-extra-dry-tape-diapers-xl-12-17kg-40-per-pack-13175929) | Tape | S$19.40 FairPrice | S$0.485
 [MamyPoko Extra Dry Tape Diapers - XL](https://www.fairprice.com.sg/product/mamypoko-extra-dry-tape-diapers-xl-12-17kg-4-x-40-per-pack-ctn-12710133) | Tape | S$77.60 FairPrice | S$0.485
-[MamyPoko Extra Dry Pants - XL](https://www.fairprice.com.sg/product/mamypoko-extra-dry-pants-xl-12-17kg-32-per-pack-13175927) | Pants | S$19.40 FairPrice | S$0.606
-[MamyPoko Extra Dry Pants - XL](https://www.fairprice.com.sg/product/mamypoko-extra-dry-pants-xl-12-17kg-4-x-32-per-pack-ctn-12710129) | Pants | S$77.60 FairPrice | S$0.606
 [Mamypoko Natural Cotton Unisex Pants - XL](https://www.fairprice.com.sg/product/mamypoko-natural-cotton-unisex-pants-xl-12-22kg-32-per-pack-13172629) | Pants | S$21.45 FairPrice | S$0.670
 [Mamypoko Natural Cotton Tape Pants-XL](https://www.fairprice.com.sg/product/mamypoko-organic-cotton-tape-pants-xl-12-22kg-4-x-32-per-pack-ctn-12709691) | Tape | S$103.80 FairPrice | S$0.811
 **ムーニー XL** |   |   | **1枚あたり**
@@ -216,7 +214,7 @@
 
 # XXL
 
-最終更新 2021年01月03日 05AM
+最終更新 2021年01月03日 02PM
 
 **GOO.N (グ〜ン) XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -254,7 +252,7 @@
 
 # XXXL
 
-最終更新 2021年01月03日 05AM
+最終更新 2021年01月03日 02PM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
