@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2021年02月13日 05AM
+最終更新 2021年02月13日 02PM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -33,7 +33,7 @@
 
 # S
 
-最終更新 2021年02月13日 05AM
+最終更新 2021年02月13日 02PM
 
 **パンパース S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -61,7 +61,7 @@
 
 # M
 
-最終更新 2021年02月13日 05AM
+最終更新 2021年02月13日 02PM
 
 **GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -70,6 +70,7 @@
 [Pampers Baby Dry Taped Diapers M - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-m-case-i305052344-s541166722.html?search=1) | Tape | S$77.76 RedMart | S$0.304
 [Pampers Baby Dry Diapers - M](https://www.fairprice.com.sg/product/12708054) | - | S$78.00 FairPrice | S$0.305
 [Pampers Baby Dry Taped Diapers M](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-m-i305054348-s541160999.html?search=1) | Tape | S$19.92 RedMart | S$0.311
+[Pampers Baby Dry Pants - M](https://www.fairprice.com.sg/product/12707648) | Pants | S$76.00 FairPrice | S$0.328
 [Pampers Summer Baby Diaper Pants - M](https://www.fairprice.com.sg/product/pampers-summer-baby-diaper-pants-m-6-11kg-4-x-54-per-pack-ctn-12710197) | Pants | S$72.00 FairPrice | S$0.333
 [Pampers Baby Dry Pants M - Case](https://www.lazada.sg/products/pampers-baby-dry-pants-m-case-i301186209-s527248741.html?search=1) | Pants | S$77.42 RedMart | S$0.334
 [Pampers Baby Dry Diapers - M](https://www.fairprice.com.sg/product/13129651) | - | S$21.50 FairPrice | S$0.336
@@ -109,7 +110,7 @@
 
 # L
 
-最終更新 2021年02月13日 05AM
+最終更新 2021年02月13日 02PM
 
 **パンパース L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -120,7 +121,6 @@
 [Pampers Baby Dry Pants L - Case](https://www.lazada.sg/products/pampers-baby-dry-pants-l-case-i305138718-s541230644.html?search=1) | Pants | S$77.42 RedMart | S$0.440
 [Pampers Summer Baby Diaper Pants - L](https://www.fairprice.com.sg/product/pampers-summer-baby-diaper-pants-l-9-14kg-4-x-40-per-pack-ctn-12710195) | Pants | S$72.00 FairPrice | S$0.450
 [Pampers Summer Baby Diaper Pants - L](https://www.fairprice.com.sg/product/pampers-summer-baby-diaper-pants-l-9-14kg-40-per-pack-13180711) | Pants | S$20.50 FairPrice | S$0.512
-[Pampers Baby Dry Pants L](https://www.lazada.sg/products/pampers-baby-dry-pants-l-i305048498-s541186186.html?search=1) | Pants | S$24.50 RedMart | S$0.557
 [Pampers Baby Unisex Dry Pants - L](https://www.fairprice.com.sg/product/pampers-baby-dry-pants-l-9-14kg-44s-13110818) | Pants | S$24.50 FairPrice | S$0.557
 [Pampers Pure Pants - L](https://www.fairprice.com.sg/product/pampers-pure-pants-l-9-14kg-136-per-pack-ctn-12710555) | Pants | S$88.90 FairPrice | S$0.654
 [Pampers Pure Pants - L](https://www.fairprice.com.sg/product/pampers-pure-pants-l-9-14kg-34-per-pack-13189831) | Pants | S$24.90 FairPrice | S$0.732
@@ -153,7 +153,6 @@
 **メリーズ L** |   |   | **1枚あたり**
 [Merries Tape Diapers L - Case](https://www.lazada.sg/products/merries-tape-diapers-l-case-i304072927-s538236307.html?search=1) | Tape | S$83.42 RedMart | S$0.386
 [Merries Tape Diapers - L](https://www.fairprice.com.sg/product/ctn-merries-diapers-l-9-14kg-4-x-54s-12705033) | Tape | S$94.85 FairPrice | S$0.439
-[Merries Tape Diapers L](https://www.lazada.sg/products/merries-tape-diapers-l-i301126461-s527208141.html?search=1) | Tape | S$24.21 RedMart | S$0.448
 [Merries Tape Diapers - L](https://www.fairprice.com.sg/product/merries-diapers-l-9-14kg-54s-13017575) | Tape | S$24.25 FairPrice | S$0.449
 [Merries Walker PantsL - Case](https://www.lazada.sg/products/merries-walker-pantsl-case-i306760197-s549594196.html?search=1) | Pants | S$64.57 RedMart | S$0.489
 [Merries Walker Pants - L](https://www.fairprice.com.sg/product/ctn-merries-walker-pants-l-9-14kg-3-x-44s-12706466) | Pants | S$69.30 FairPrice | S$0.525
@@ -162,7 +161,7 @@
 
 # XL
 
-最終更新 2021年02月13日 05AM
+最終更新 2021年02月13日 02PM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -201,7 +200,7 @@
 
 # XXL
 
-最終更新 2021年02月13日 05AM
+最終更新 2021年02月13日 02PM
 
 **パンパース XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -238,7 +237,7 @@
 
 # XXXL
 
-最終更新 2021年02月13日 05AM
+最終更新 2021年02月13日 02PM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
