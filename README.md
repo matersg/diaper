@@ -5,14 +5,14 @@
 
 # NB
 
-最終更新 2021年02月16日 02PM
+最終更新 2021年02月17日 05AM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
 [GOO.N Diapers Justborn](https://www.lazada.sg/products/goon-diapers-justborn-i303908577-s537956622.html?search=1) | Tape | S$18.50 RedMart | S$0.514
 **パンパース NB** |   |   | **1枚あたり**
 [Pampers Baby Dry Taped Diapers Newborn](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-newborn-i302782274-s535964891.html?search=1) | Tape | S$18.96 RedMart | S$0.211
-[Pampers Baby Dry Taped Diapers Newborn - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-newborn-case-i302754696-s536000027.html?search=1) | Tape | S$77.76 RedMart | S$0.216
+[Pampers Baby Dry Taped Diapers Newborn - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-newborn-case-i302754696-s536000027.html?search=1) | Tape | S$76.80 RedMart | S$0.213
 [Pampers Baby Dry Diapers - New Born (5kg)](https://www.fairprice.com.sg/product/12708052) | - | S$78.00 FairPrice | S$0.217
 [Pampers Baby Dry Diapers - New Born (5kg)](https://www.fairprice.com.sg/product/pampers-baby-dry-diapers---new-born-5kg-13129653) | - | S$21.50 FairPrice | S$0.239
 **マミーポコ NB** |   |   | **1枚あたり**
@@ -27,18 +27,18 @@
 [Merries Tape Diapers Newborn - Case](https://www.lazada.sg/products/merries-tape-diapers-newborn-case-i304084531-s538228556.html?search=1) | Tape | S$63.67 RedMart | S$0.265
 [Merries Tape Diapers - New Born](https://www.fairprice.com.sg/product/merries-tape-diapers---new-born-0---5kg-12705030) | Tape | S$73.75 FairPrice | S$0.307
 [Merries Tape Diapers - New Born](https://www.fairprice.com.sg/product/merries-diapers-newborn-up-to-5kg-60s-13017539) | Tape | S$18.95 FairPrice | S$0.316
-[Merries Tape Diapers - Newborn](https://www.lazada.sg/products/merries-tape-diapers-newborn-i301136429-s527194517.html?search=1) | Tape | S$20.95 RedMart | S$0.349
 
 # S
 
-最終更新 2021年02月16日 02PM
+最終更新 2021年02月17日 05AM
 
 **パンパース S** |   |   | **1枚あたり**
 :---------- | - | - | ------
-[Pampers Baby Dry Taped Diapers S - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-s-case-i302778363-s535966927.html?search=1) | Tape | S$77.76 RedMart | S$0.237
+[Pampers Baby Dry Taped Diapers S - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-s-case-i302778363-s535966927.html?search=1) | Tape | S$76.80 RedMart | S$0.234
 [Pampers Baby Dry Diapers - S](https://www.fairprice.com.sg/product/12708053) | - | S$78.00 FairPrice | S$0.238
 [Pampers Baby Dry Taped Diapers S](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-s-i302770437-s535972558.html?search=1) | Tape | S$19.92 RedMart | S$0.243
 [Pampers Baby Dry Diapers - S](https://www.fairprice.com.sg/product/13129650) | - | S$21.50 FairPrice | S$0.262
+[Pampers Pure Tape Diapers - S](https://www.fairprice.com.sg/product/pampers-pure-tape-diapers-s-4-8kg-58-per-pack-13189829) | Tape | S$24.90 FairPrice | S$0.429
 **パンパースプレミアムケア S** |   |   | **1枚あたり**
 [Pampers Premium Care Diapers - S](https://www.fairprice.com.sg/product/pampers-premium-care-diapers-s-4-8kg-4-x-64-per-pack-ctn-12710269) | - | S$84.90 FairPrice | S$0.332
 [Pampers Premium Care Diapers - S](https://www.fairprice.com.sg/product/pampers-premium-care-diapers-s-4-8kg-64-per-pack-13183268) | - | S$27.90 FairPrice | S$0.436
@@ -60,15 +60,16 @@
 
 # M
 
-最終更新 2021年02月16日 02PM
+最終更新 2021年02月17日 05AM
 
 **パンパース M** |   |   | **1枚あたり**
 :---------- | - | - | ------
-[Pampers Baby Dry Taped Diapers M - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-m-case-i305052344-s541166722.html?search=1) | Tape | S$77.76 RedMart | S$0.304
+[Pampers Baby Dry Taped Diapers M - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-m-case-i305052344-s541166722.html?search=1) | Tape | S$76.80 RedMart | S$0.300
 [Pampers Baby Dry Diapers - M](https://www.fairprice.com.sg/product/12708054) | - | S$78.00 FairPrice | S$0.305
 [Pampers Baby Dry Taped Diapers M](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-m-i305054348-s541160999.html?search=1) | Tape | S$19.92 RedMart | S$0.311
+[Pampers Baby Dry Pants - M](https://www.fairprice.com.sg/product/12707648) | Pants | S$76.00 FairPrice | S$0.328
+[Pampers Baby Dry Pants M - Case](https://www.lazada.sg/products/pampers-baby-dry-pants-m-case-i301186209-s527248741.html?search=1) | Pants | S$76.44 RedMart | S$0.329
 [Pampers Summer Baby Diaper Pants - M](https://www.fairprice.com.sg/product/pampers-summer-baby-diaper-pants-m-6-11kg-4-x-54-per-pack-ctn-12710197) | Pants | S$72.00 FairPrice | S$0.333
-[Pampers Baby Dry Pants M - Case](https://www.lazada.sg/products/pampers-baby-dry-pants-m-case-i301186209-s527248741.html?search=1) | Pants | S$77.42 RedMart | S$0.334
 [Pampers Baby Dry Diapers - M](https://www.fairprice.com.sg/product/13129651) | - | S$21.50 FairPrice | S$0.336
 [Pampers Baby Unisex Dry Pants - M](https://www.fairprice.com.sg/product/pampers-baby-dry-pants-m-6-11kg-58s-13110819) | Pants | S$20.50 FairPrice | S$0.353
 [Pampers Summer Baby Diaper Pants - M](https://www.fairprice.com.sg/product/pampers-summer-baby-diaper-pants-m-6-11kg-54-per-pack-13180713) | Pants | S$20.50 FairPrice | S$0.380
@@ -106,16 +107,16 @@
 
 # L
 
-最終更新 2021年02月16日 02PM
+最終更新 2021年02月17日 05AM
 
 **パンパース L** |   |   | **1枚あたり**
 :---------- | - | - | ------
-[Pampers Baby Dry Taped Diapers L - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-l-case-i305052340-s541166715.html?search=1) | Tape | S$77.76 RedMart | S$0.360
+[Pampers Baby Dry Taped Diapers L - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-l-case-i305052340-s541166715.html?search=1) | Tape | S$76.80 RedMart | S$0.356
 [Pampers Baby Dry Diapers - L](https://www.fairprice.com.sg/product/12708055) | - | S$78.00 FairPrice | S$0.361
 [Pampers Baby Dry Taped Diapers L](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-l-i305030887-s541182370.html?search=1) | Tape | S$19.92 RedMart | S$0.369
 [Pampers Baby Dry Diapers - L](https://www.fairprice.com.sg/product/13129641) | - | S$21.50 FairPrice | S$0.398
 [Pampers Baby Dry Pants - L](https://www.fairprice.com.sg/product/12707649) | Pants | S$76.00 FairPrice | S$0.432
-[Pampers Baby Dry Pants L - Case](https://www.lazada.sg/products/pampers-baby-dry-pants-l-case-i305138718-s541230644.html?search=1) | Pants | S$77.42 RedMart | S$0.440
+[Pampers Baby Dry Pants L - Case](https://www.lazada.sg/products/pampers-baby-dry-pants-l-case-i305138718-s541230644.html?search=1) | Pants | S$76.44 RedMart | S$0.434
 [Pampers Summer Baby Diaper Pants - L](https://www.fairprice.com.sg/product/pampers-summer-baby-diaper-pants-l-9-14kg-4-x-40-per-pack-ctn-12710195) | Pants | S$72.00 FairPrice | S$0.450
 [Pampers Baby Unisex Dry Pants - L](https://www.fairprice.com.sg/product/pampers-baby-dry-pants-l-9-14kg-44s-13110818) | Pants | S$20.50 FairPrice | S$0.466
 [Pampers Summer Baby Diaper Pants - L](https://www.fairprice.com.sg/product/pampers-summer-baby-diaper-pants-l-9-14kg-40-per-pack-13180711) | Pants | S$20.50 FairPrice | S$0.512
@@ -123,8 +124,6 @@
 [Pampers Pure Pants - L](https://www.fairprice.com.sg/product/pampers-pure-pants-l-9-14kg-136-per-pack-ctn-12710555) | Pants | S$88.90 FairPrice | S$0.654
 [Pampers Pure Pants - L](https://www.fairprice.com.sg/product/pampers-pure-pants-l-9-14kg-34-per-pack-13189831) | Pants | S$24.90 FairPrice | S$0.732
 **パンパースプレミアムケア L** |   |   | **1枚あたり**
-[Pampers Premium Care Diapers - L](https://www.fairprice.com.sg/product/pampers-premium-care-diapers-l-9-14kg-4-x-42-per-pack-ctn-12710292) | - | S$83.90 FairPrice | S$0.499
-[Pampers Premium Care Diapers - L](https://www.fairprice.com.sg/product/pampers-premium-care-diapers-l-9-14kg-42-per-pack-13183271) | - | S$22.50 FairPrice | S$0.536
 [Pampers Premium Care Pants - L](https://www.fairprice.com.sg/product/pampers-premium-care-pants-l-9-14kg-38-per-pack-13183269) | Pants | S$22.50 FairPrice | S$0.592
 **マミーポコ L** |   |   | **1枚あたり**
 [MamyPoko Standard Pants L - Case - By Unicharm](https://www.lazada.sg/products/mamypoko-standard-pants-l-case-by-unicharm-i304198084-s538388151.html?search=1) | Tape | S$41.92 RedMart | S$0.269
@@ -133,7 +132,6 @@
 [MamyPoko Extra Dry Tape Diapers - L](https://www.fairprice.com.sg/product/mamypoko-extra-dry-tape-diapers-l-9-14kg-46-per-pack-13175925) | Tape | S$19.40 FairPrice | S$0.422
 [MamyPoko Extra Dry Pants - L](https://www.fairprice.com.sg/product/mamypoko-extra-dry-pants-l-9-14kg-4-x-38-per-pack-ctn-12710128) | Pants | S$65.60 FairPrice | S$0.432
 [MamyPoko Extra Dry Pants - L](https://www.fairprice.com.sg/product/mamypoko-extra-dry-pants-l-9-14kg-38-per-pack-13175933) | Pants | S$19.40 FairPrice | S$0.511
-[Mamypoko Natural Cotton Unisex Pants - L](https://www.fairprice.com.sg/product/mamypoko-natural-cotton-unisex-pants-l-9-14kg-36-per-pack-13172628) | Pants | S$25.95 FairPrice | S$0.721
 [MamyPoko Standard Diaper Pants - L](https://www.fairprice.com.sg/product/mamypoko-standard-diaper-pants-l-9-14kg-3-x-48-4-per-pack-ctn-12706483) | Pants | S$41.85 FairPrice | S$10.463
 **ムーニー L** |   |   | **1枚あたり**
 [MamyPoko Air Fit Tape Diaper L - Case - By Unicharm](https://www.lazada.sg/products/mamypoko-air-fit-tape-diaper-l-case-by-unicharm-i304162876-s538390033.html?search=1) | Tape | S$85.12 RedMart | S$0.394
@@ -148,18 +146,18 @@
 [MamyPoko Air Fit Pants Boy L](https://www.lazada.sg/products/mamypoko-air-fit-pants-boy-l-i306758510-s549586509.html?search=1) | Pants | S$25.95 RedMart | S$0.590
 [MamyPoko Air Fit Pants Girl L](https://www.lazada.sg/products/mamypoko-air-fit-pants-girl-l-i306758509-s549586508.html?search=1) | Pants | S$25.95 RedMart | S$0.590
 **メリーズ L** |   |   | **1枚あたり**
+[Merries Tape Diapers L - Case](https://www.lazada.sg/products/merries-tape-diapers-l-case-i304072927-s538236307.html?search=1) | Tape | S$88.27 RedMart | S$0.409
 [Merries Tape Diapers - L](https://www.fairprice.com.sg/product/ctn-merries-diapers-l-9-14kg-4-x-54s-12705033) | Tape | S$94.85 FairPrice | S$0.439
+[Merries Tape Diapers L](https://www.lazada.sg/products/merries-tape-diapers-l-i301126461-s527208141.html?search=1) | Tape | S$24.21 RedMart | S$0.448
 [Merries Tape Diapers - L](https://www.fairprice.com.sg/product/merries-diapers-l-9-14kg-54s-13017575) | Tape | S$24.25 FairPrice | S$0.449
-[Merries Tape Diapers L - Case](https://www.lazada.sg/products/merries-tape-diapers-l-case-i304072927-s538236307.html?search=1) | Tape | S$97.00 RedMart | S$0.449
-[Merries Tape Diapers L](https://www.lazada.sg/products/merries-tape-diapers-l-i301126461-s527208141.html?search=1) | Tape | S$26.60 RedMart | S$0.493
-[Merries Walker PantsL - Case](https://www.lazada.sg/products/merries-walker-pantsl-case-i306760197-s549594196.html?search=1) | Pants | S$66.15 RedMart | S$0.501
 [Merries Walker Pants - L](https://www.fairprice.com.sg/product/ctn-merries-walker-pants-l-9-14kg-3-x-44s-12706466) | Pants | S$69.30 FairPrice | S$0.525
 [Merries Walker Pants - L](https://www.fairprice.com.sg/product/merries-walker-pants-l-9-14kg-44s-13085180) | Pants | S$23.50 FairPrice | S$0.534
-[Merries Walker Pants L](https://www.lazada.sg/products/merries-walker-pants-l-i303234620-s536556296.html?search=1) | Pants | S$23.50 RedMart | S$0.534
+[Merries Walker Pants L](https://www.lazada.sg/products/merries-walker-pants-l-i303234620-s536556296.html?search=1) | Pants | S$26.25 RedMart | S$0.597
+[Merries Walker PantsL - Case](https://www.lazada.sg/products/merries-walker-pantsl-case-i306760197-s549594196.html?search=1) | Pants | S$78.75 RedMart | S$0.597
 
 # XL
 
-最終更新 2021年02月16日 02PM
+最終更新 2021年02月17日 05AM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -189,20 +187,20 @@
 [MamyPoko Air Fit Girl Pants - XL](https://www.fairprice.com.sg/product/mamypoko-xl-air-fit-girl-12-17kg-38s-13085346) | Pants | S$25.95 FairPrice | S$0.683
 **メリーズ XL** |   |   | **1枚あたり**
 [Merries Tender Love Tape Diapers - XL](https://www.fairprice.com.sg/product/merries-tape-diapers-xl-12-20kg-6-x-27-per-pack-ctn-13179717) | Tape | S$76.00 FairPrice | S$0.469
+[Merries Tape Diapers XL - Case](https://www.lazada.sg/products/merries-tape-diapers-xl-case-i306758622-s549586621.html?search=1) | Tape | S$88.27 RedMart | S$0.502
 [Merries Tape Diapers - XL](https://www.fairprice.com.sg/product/ctn-merries-diapers-xl-12-20kg-4-x-44s-12705034) | Tape | S$94.85 FairPrice | S$0.539
 [Merries Tape Diapers - XL](https://www.fairprice.com.sg/product/merries-diapers-xl-12-20kg-44s-13017579) | Tape | S$24.25 FairPrice | S$0.551
-[Merries Tape Diapers XL - Case](https://www.lazada.sg/products/merries-tape-diapers-xl-case-i306758622-s549586621.html?search=1) | Tape | S$97.00 RedMart | S$0.551
-[Merries Walker PantsXL - Case](https://www.lazada.sg/products/merries-walker-pantsxl-case-i304098336-s538208867.html?search=1) | Pants | S$66.15 RedMart | S$0.580
 [Merries Walker Pants - XL](https://www.fairprice.com.sg/product/ctn-merries-walker-pants-xl-12-22kg-3-x-38s-12706467) | Pants | S$69.30 FairPrice | S$0.608
 [Merries Walker Pants - XL](https://www.fairprice.com.sg/product/merries-walker-pants-xl-12-22kg-38s-13085181) | Pants | S$23.50 FairPrice | S$0.618
+[Merries Walker PantsXL - Case](https://www.lazada.sg/products/merries-walker-pantsxl-case-i304098336-s538208867.html?search=1) | Pants | S$78.75 RedMart | S$0.691
 
 # XXL
 
-最終更新 2021年02月16日 02PM
+最終更新 2021年02月17日 05AM
 
 **パンパース XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
-[Pampers Baby Dry Taped Diapers XXL - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-xxl-case-i301166166-s527236907.html?search=1) | Tape | S$77.76 RedMart | S$0.572
+[Pampers Baby Dry Taped Diapers XXL - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-xxl-case-i301166166-s527236907.html?search=1) | Tape | S$76.80 RedMart | S$0.565
 [Pampers Baby Dry Diapers - XXL (16+ kg)](https://www.fairprice.com.sg/product/pampers-baby-dry-diapers---xxl-16-kg-12708056) | - | S$78.00 FairPrice | S$0.574
 [Pampers Baby Dry Taped Diapers XXL](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-xxl-i301184109-s527272174.html?search=1) | Tape | S$19.92 RedMart | S$0.586
 [Pampers Baby Dry Diapers - XXL (16+ kg)](https://www.fairprice.com.sg/product/pampers-baby-dry-diapers---xxl-16-kg-13129652) | - | S$21.50 FairPrice | S$0.632
@@ -225,6 +223,7 @@
 [MamyPoko Extra Dry Pants - XXL](https://www.fairprice.com.sg/product/mamypoko-extra-dry-pants-xxl-15-25kg-26-per-pack-13175931) | Pants | S$19.40 FairPrice | S$0.746
 [MamyPoko Standard Diaper Pants-XXL](https://www.fairprice.com.sg/product/mamypoko-standard-diaper-pants-xxl-15-25kg-3-x-32-4-per-pack-ctn-12706485) | Pants | S$41.85 FairPrice | S$10.463
 **ムーニー XXL** |   |   | **1枚あたり**
+[MamyPoko Air Fit Boy Pants - XXL](https://www.fairprice.com.sg/product/12709692) | Pants | S$64.35 FairPrice | S$0.825
 [MamyPoko Air Fit Girl Pants - XXL](https://www.fairprice.com.sg/product/12709693) | Pants | S$64.35 FairPrice | S$0.825
 [MamyPoko Air Fit Boy Pants - XXL](https://www.fairprice.com.sg/product/13146527) | Pants | S$25.95 FairPrice | S$0.998
 [MamyPoko Air Fit Girl Pants - XXL](https://www.fairprice.com.sg/product/13146528) | Pants | S$25.95 FairPrice | S$0.998
@@ -237,7 +236,7 @@
 
 # XXXL
 
-最終更新 2021年02月16日 02PM
+最終更新 2021年02月17日 05AM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
