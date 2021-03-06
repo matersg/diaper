@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2021年03月06日 02PM
+最終更新 2021年03月07日 05AM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -15,7 +15,6 @@
 [Pampers Baby Dry Diapers - New Born (5kg)](https://www.fairprice.com.sg/product/12708052) | - | S$78.00 FairPrice | S$0.217
 [Pampers Baby Dry Taped Diapers Newborn - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-newborn-case-i302754696-s536000027.html?search=1) | Tape | S$78.00 RedMart | S$0.217
 [Pampers Baby Dry Diapers - New Born (5kg)](https://www.fairprice.com.sg/product/pampers-baby-dry-diapers---new-born-5kg-13129653) | - | S$21.50 FairPrice | S$0.239
-[Pampers Pure Tape Diapers - Newborn (5kg)](https://www.fairprice.com.sg/product/pampers-pure-tape-diapers-newborn-5kg-248-per-pack-ctn-12710550) | Tape | S$88.90 FairPrice | S$0.358
 **マミーポコ NB** |   |   | **1枚あたり**
 [MamyPoko Extra Dry Organic Tape Diapers Newborn - By Unicharm](https://www.lazada.sg/products/mamypoko-extra-dry-organic-tape-diapers-newborn-by-unicharm-i323294882-s657378145.html?search=1) | Tape | S$49.20 RedMart | S$0.216
 [MamyPoko Extra Dry SkinDiapers-Newborn(UpTo5kg)](https://www.fairprice.com.sg/product/mamypoko-extra-dry-skindiapers-newborn-upto5kg-3-x-76-per-pack-ctn-12710224) | - | S$49.20 FairPrice | S$0.216
@@ -32,7 +31,7 @@
 
 # S
 
-最終更新 2021年03月06日 02PM
+最終更新 2021年03月07日 05AM
 
 **パンパース S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -60,7 +59,7 @@
 
 # M
 
-最終更新 2021年03月06日 02PM
+最終更新 2021年03月07日 05AM
 
 **パンパース M** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -107,7 +106,7 @@
 
 # L
 
-最終更新 2021年03月06日 02PM
+最終更新 2021年03月07日 05AM
 
 **パンパース L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -135,6 +134,7 @@
 [MamyPoko Extra Dry Tape Diapers - L](https://www.fairprice.com.sg/product/mamypoko-extra-dry-tape-diapers-l-9-14kg-46-per-pack-13175925) | Tape | S$19.40 FairPrice | S$0.422
 [MamyPoko Extra Dry Pants - L](https://www.fairprice.com.sg/product/mamypoko-extra-dry-pants-l-9-14kg-4-x-38-per-pack-ctn-12710128) | Pants | S$65.60 FairPrice | S$0.432
 [MamyPoko Extra Dry Pants - L](https://www.fairprice.com.sg/product/mamypoko-extra-dry-pants-l-9-14kg-38-per-pack-13175933) | Pants | S$16.70 FairPrice | S$0.439
+[Mamypoko Natural Cotton Diapers - L](https://www.fairprice.com.sg/product/mamypoko-natural-cotton-diapers-l-9-14kg-38-per-pack-13172627) | - | S$25.95 FairPrice | S$0.683
 [Mamypoko Natural Cotton Unisex Pants - L](https://www.fairprice.com.sg/product/mamypoko-natural-cotton-unisex-pants-l-9-14kg-36-per-pack-13172628) | Pants | S$25.95 FairPrice | S$0.721
 [MamyPoko Standard Diaper Pants - L](https://www.fairprice.com.sg/product/mamypoko-standard-diaper-pants-l-9-14kg-3-x-48-4-per-pack-ctn-12706483) | Pants | S$41.85 FairPrice | S$10.463
 **ムーニー L** |   |   | **1枚あたり**
@@ -161,7 +161,7 @@
 
 # XL
 
-最終更新 2021年03月06日 02PM
+最終更新 2021年03月07日 05AM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -186,7 +186,6 @@
 [MamyPoko Standard Diaper Pants -XL](https://www.fairprice.com.sg/product/mamypoko-standard-diaper-pants-xl-12-17kg-3-x-40-4-per-pack-ctn-12706484) | Pants | S$41.85 FairPrice | S$10.463
 **ムーニー XL** |   |   | **1枚あたり**
 [MamyPoko Air Fit Boy Pants - XL](https://www.fairprice.com.sg/product/ctn-mamypoko-xl-air-fit-boy-12-17kg-4-x-38s-12706146) | Pants | S$85.50 FairPrice | S$0.562
-[MamyPoko Air Fit Girl Pants - XL](https://www.fairprice.com.sg/product/ctn-mamypoko-xl-air-fit-girl-12-17kg-4-x-38s-12706147) | Pants | S$85.50 FairPrice | S$0.562
 [MamyPoko Air Fit Diapers - XL](https://www.fairprice.com.sg/product/mamypoko-air-fit-diapers---xl-12---17kg-13150755) | - | S$25.95 FairPrice | S$0.590
 [MamyPoko Air Fit Boy Pants - XL](https://www.fairprice.com.sg/product/mamypoko-xl-air-fit-boy-12-17kg-38s-13085345) | Pants | S$25.95 FairPrice | S$0.683
 [MamyPoko Air Fit Girl Pants - XL](https://www.fairprice.com.sg/product/mamypoko-xl-air-fit-girl-12-17kg-38s-13085346) | Pants | S$25.95 FairPrice | S$0.683
@@ -201,7 +200,7 @@
 
 # XXL
 
-最終更新 2021年03月06日 02PM
+最終更新 2021年03月07日 05AM
 
 **パンパース XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -240,7 +239,7 @@
 
 # XXXL
 
-最終更新 2021年03月06日 02PM
+最終更新 2021年03月07日 05AM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
