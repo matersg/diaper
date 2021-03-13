@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2021年03月13日 02PM
+最終更新 2021年03月14日 05AM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -34,7 +34,7 @@
 
 # S
 
-最終更新 2021年03月13日 02PM
+最終更新 2021年03月14日 05AM
 
 **パンパース S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -42,6 +42,7 @@
 [Pampers Baby Dry Diapers - S](https://www.fairprice.com.sg/product/12708053) | - | S$78.00 FairPrice | S$0.238
 [Pampers Baby Dry Taped Diapers S](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-s-i302770437-s535972558.html?search=1) | Tape | S$19.92 RedMart | S$0.243
 [Pampers Baby Dry Diapers - S](https://www.fairprice.com.sg/product/13129650) | - | S$21.50 FairPrice | S$0.262
+[Pampers Pure Tape Diapers - S](https://www.fairprice.com.sg/product/pampers-pure-tape-diapers-s-4-8kg-58-per-pack-13189829) | Tape | S$24.90 FairPrice | S$0.429
 **パンパースプレミアムケア S** |   |   | **1枚あたり**
 [Pampers Premium Care Diapers - S](https://www.fairprice.com.sg/product/pampers-premium-care-diapers-s-4-8kg-4-x-64-per-pack-ctn-12710269) | - | S$84.90 FairPrice | S$0.332
 [Pampers Premium Care Diapers - S](https://www.fairprice.com.sg/product/pampers-premium-care-diapers-s-4-8kg-64-per-pack-13183268) | - | S$22.95 FairPrice | S$0.359
@@ -59,12 +60,11 @@
 **メリーズ S** |   |   | **1枚あたり**
 [Merries Tape Diapers S - Case](https://www.lazada.sg/products/merries-tape-diapers-s-case-i304094419-s538238257.html?search=1) | Tape | S$62.16 RedMart | S$0.288
 [Merries Tape Diapers - S](https://www.fairprice.com.sg/product/merries-tape-diapers---s-4---8kg-12705031) | Tape | S$73.75 FairPrice | S$0.341
-[Merries Tape Diapers S](https://www.lazada.sg/products/merries-tape-diapers-s-i301120446-s527190447.html?search=1) | Tape | S$18.85 RedMart | S$0.349
 [Merries Tape Diapers - S](https://www.fairprice.com.sg/product/merries-diapers-s-4-8kg-54s-13017620) | Tape | S$18.95 FairPrice | S$0.351
 
 # M
 
-最終更新 2021年03月13日 02PM
+最終更新 2021年03月14日 05AM
 
 **パンパース M** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -78,7 +78,6 @@
 [Pampers Summer Baby Diaper Pants - M](https://www.fairprice.com.sg/product/pampers-summer-baby-diaper-pants-m-6-11kg-54-per-pack-13180713) | Pants | S$20.50 FairPrice | S$0.380
 [Pampers Baby Dry Pants M](https://www.lazada.sg/products/pampers-baby-dry-pants-m-i301190159-s527274270.html?search=1) | Pants | S$24.50 RedMart | S$0.422
 [Pampers Pure Tape Diapers - M](https://www.fairprice.com.sg/product/pampers-pure-tape-diapers-m-6-11kg-184-per-pack-ctn-12710554) | Tape | S$88.90 FairPrice | S$0.483
-[Pampers Pure Pants - M](https://www.fairprice.com.sg/product/pampers-pure-pants-m-6-11kg-44-per-pack-13189830) | Pants | S$24.90 FairPrice | S$0.566
 **パンパースプレミアムケア M** |   |   | **1枚あたり**
 [Pampers Premium Care Diapers - M](https://www.fairprice.com.sg/product/pampers-premium-care-diapers-m-6-11kg-4-x-52-per-pack-ctn-12710294) | - | S$83.90 FairPrice | S$0.403
 [Pampers Premium Care Diapers - M](https://www.fairprice.com.sg/product/pampers-premium-care-diapers-m-6-11kg-52-per-pack-13183273) | - | S$22.50 FairPrice | S$0.433
@@ -116,7 +115,7 @@
 
 # L
 
-最終更新 2021年03月13日 02PM
+最終更新 2021年03月14日 05AM
 
 **パンパース L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -174,7 +173,7 @@
 
 # XL
 
-最終更新 2021年03月13日 02PM
+最終更新 2021年03月14日 05AM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -216,7 +215,7 @@
 
 # XXL
 
-最終更新 2021年03月13日 02PM
+最終更新 2021年03月14日 05AM
 
 **パンパース XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -255,7 +254,7 @@
 
 # XXXL
 
-最終更新 2021年03月13日 02PM
+最終更新 2021年03月14日 05AM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
