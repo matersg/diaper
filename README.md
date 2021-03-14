@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2021年03月14日 05AM
+最終更新 2021年03月14日 02PM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -25,7 +25,6 @@
 [MamyPoko Air Fit Tape Diapers Newborn - Case](https://www.lazada.sg/products/mamypoko-air-fit-tape-diapers-newborn-case-i1421482525-s6469202552.html?search=1) | Tape | S$77.85 RedMart | S$0.096
 [MamyPoko Air Fit Diapers - New Born](https://www.fairprice.com.sg/product/mamypoko-new-born-air-fit-5kg-90s-13085255) | - | S$21.45 FairPrice | S$0.238
 [MamyPoko Air Fit Diapers - New Born](https://www.fairprice.com.sg/product/ctn-mamypoko-new-born-air-fit-5kg-3-x-90s-12706140) | - | S$64.35 FairPrice | S$0.238
-[MamyPoko Air Fit Diapers Newborn](https://www.lazada.sg/products/mamypoko-air-fit-diapers-newborn-i306758512-s549586511.html?search=1) | Tape | S$25.95 RedMart | S$0.288
 **メリーズ NB** |   |   | **1枚あたり**
 [Merries Tape Diapers Newborn - Case](https://www.lazada.sg/products/merries-tape-diapers-newborn-case-i304084531-s538228556.html?search=1) | Tape | S$62.16 RedMart | S$0.259
 [Merries Tape Diapers - New Born](https://www.fairprice.com.sg/product/merries-tape-diapers---new-born-0---5kg-12705030) | Tape | S$73.75 FairPrice | S$0.307
@@ -34,7 +33,7 @@
 
 # S
 
-最終更新 2021年03月14日 05AM
+最終更新 2021年03月14日 02PM
 
 **パンパース S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -64,7 +63,7 @@
 
 # M
 
-最終更新 2021年03月14日 05AM
+最終更新 2021年03月14日 02PM
 
 **パンパース M** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -115,7 +114,7 @@
 
 # L
 
-最終更新 2021年03月14日 05AM
+最終更新 2021年03月14日 02PM
 
 **パンパース L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -173,7 +172,7 @@
 
 # XL
 
-最終更新 2021年03月14日 05AM
+最終更新 2021年03月14日 02PM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -215,7 +214,7 @@
 
 # XXL
 
-最終更新 2021年03月14日 05AM
+最終更新 2021年03月14日 02PM
 
 **パンパース XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -254,7 +253,7 @@
 
 # XXXL
 
-最終更新 2021年03月14日 05AM
+最終更新 2021年03月14日 02PM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
