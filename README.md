@@ -5,7 +5,7 @@
 
 # NB
 
-最終更新 2021年03月17日 05AM
+最終更新 2021年03月17日 02PM
 
 **GOO.N (グ〜ン) NB** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -34,7 +34,7 @@
 
 # S
 
-最終更新 2021年03月17日 05AM
+最終更新 2021年03月17日 02PM
 
 **パンパース S** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -64,10 +64,12 @@
 
 # M
 
-最終更新 2021年03月17日 05AM
+最終更新 2021年03月17日 02PM
 
-**パンパース M** |   |   | **1枚あたり**
+**GOO.N (グ〜ン) M** |   |   | **1枚あたり**
 :---------- | - | - | ------
+[GOO.N Cheerful Baby Pants M](https://www.lazada.sg/products/goon-cheerful-baby-pants-m-i303908575-s537956620.html?search=1) | Pants | S$16.90 RedMart | S$0.291
+**パンパース M** |   |   | **1枚あたり**
 [Pampers Baby Dry Diapers - M](https://www.fairprice.com.sg/product/12708054) | - | S$78.00 FairPrice | S$0.305
 [Pampers Baby Dry Taped Diapers M - Case](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-m-case-i305052344-s541166722.html?search=1) | Tape | S$78.72 RedMart | S$0.307
 [Pampers Baby Dry Taped Diapers M](https://www.lazada.sg/products/pampers-baby-dry-taped-diapers-m-i305054348-s541160999.html?search=1) | Tape | S$20.40 RedMart | S$0.319
@@ -115,7 +117,7 @@
 
 # L
 
-最終更新 2021年03月17日 05AM
+最終更新 2021年03月17日 02PM
 
 **パンパース L** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -168,11 +170,11 @@
 [Merries Walker PantsL - Case](https://www.lazada.sg/products/merries-walker-pantsl-case-i306760197-s549594196.html?search=1) | Pants | S$66.15 RedMart | S$0.501
 [Merries Walker Pants - L](https://www.fairprice.com.sg/product/ctn-merries-walker-pants-l-9-14kg-3-x-44s-12706466) | Pants | S$69.30 FairPrice | S$0.525
 [Merries Walker Pants - L](https://www.fairprice.com.sg/product/merries-walker-pants-l-9-14kg-44s-13085180) | Pants | S$23.50 FairPrice | S$0.534
-[Merries Walker Pants L](https://www.lazada.sg/products/merries-walker-pants-l-i303234620-s536556296.html?search=1) | Pants | S$23.62 RedMart | S$0.537
+[Merries Walker Pants L](https://www.lazada.sg/products/merries-walker-pants-l-i303234620-s536556296.html?search=1) | Pants | S$23.50 RedMart | S$0.534
 
 # XL
 
-最終更新 2021年03月17日 05AM
+最終更新 2021年03月17日 02PM
 
 **パンパース XL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -214,7 +216,7 @@
 
 # XXL
 
-最終更新 2021年03月17日 05AM
+最終更新 2021年03月17日 02PM
 
 **パンパース XXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
@@ -254,7 +256,7 @@
 
 # XXXL
 
-最終更新 2021年03月17日 05AM
+最終更新 2021年03月17日 02PM
 
 **マミーポコ XXXL** |   |   | **1枚あたり**
 :---------- | - | - | ------
